@@ -16,40 +16,6 @@ import time
 
 logger = logging.getLogger(__name__)
 
-"""
-from django.core.cache import cache
-import time
-
-def fetch_product_image(product_name):
-    API_KEY = 'lEK6qUcCxAZs0Qo4IdKjfQsc1vlwbxptLTt5PhqQHjFYx9V7uaWChNfW'
-    headers = {
-        'Authorization': API_KEY
-    }
-    params = {
-        'query': product_name,
-        'per_page': 1
-    }
-
-    # Check cache first
-    cache_key = f"product_image_{product_name}"
-    cached_image_url = cache.get(cache_key)
-    if cached_image_url:
-        return cached_image_url
-
-    response = requests.get('https://api.pexels.com/v1/search', headers=headers, params=params)
-    if response.status_code == 200:
-        data = response.json()
-        if data['photos']:
-            image_url = data['photos'][0]['src']['medium']
-            # Cache the result
-            cache.set(cache_key, image_url, timeout=86400)  # Cache for 24 hours
-            return image_url
-    else:
-        logger.error(f"Failed to fetch image for {product_name}: {response.status_code} {response.text}")
-    
-    return None
-"""
-
 # Index view to load products and categories
 def index(request):
     # Load product data from CSV
@@ -91,7 +57,7 @@ def fetch_product_image(product_name):
     image_url = fetch_from_pixabay(product_name)
     return image_url
 def fetch_from_pexels(product_name):
-    API_KEY = 'lEK6qUcCxAZs0Qo4IdKjfQsc1vlwbxptLTt5PhqQHjFYx9V7uaWChNfW'
+    API_KEY = 'YOUR_API_KEY'
     headers = {
         'Authorization': API_KEY
     }
@@ -118,7 +84,7 @@ def fetch_from_pexels(product_name):
     return None
 
 def fetch_from_unsplash(product_name):
-    ACCESS_KEY = 'blPDIpOHF8c7wkDrxioazBuE0pfT6jlPyfZsxsw-KRU'
+    ACCESS_KEY = 'YOUR_API_KEY'
     params = {
         'query': product_name,
         'per_page': 1,
@@ -143,7 +109,7 @@ def fetch_from_unsplash(product_name):
     return None
 
 def fetch_from_pixabay(product_name):
-    API_KEY = '45251958-bfb46968bda5767f1030a0dc5'
+    API_KEY = 'YOUR_API_KEY'
     params = {
         'q': product_name,
         'per_page': 1,
