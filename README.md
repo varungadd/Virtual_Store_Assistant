@@ -38,8 +38,8 @@ The retail landscape is transforming rapidly, blending online and offline experi
 - **Backend**: 
   - ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   - ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-- **APIs**: Pexels, Unsplash, Pixabay for product images; Fitness Calculator API, Edamam API for additional features.
-- **Database**: SQLite (Django default)
+- **APIs**: Pexels, Unsplash, Pixabay for product images.
+- **Database**: MySQL.
 
 ## 🚀 Setup
 
@@ -99,8 +99,3 @@ Contributions are welcome! Please follow these steps:
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgements
-
-- Thanks to the Walmart Hackathon team for the opportunity.
-- Special thanks to our team members for their hard work and dedication.
