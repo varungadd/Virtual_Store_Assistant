@@ -1,0 +1,501 @@
+customer_id,product_id,purchase_date,purchase_amount,rating,review,search_queries
+1,1,15-01-2024,999.99,5,Excellent product,apple iphone
+2,2,10-02-2024,799.99,4,Very good phone,samsung galaxy
+3,3,05-03-2024,1200,4,Great laptop,lenovo yoga
+4,5,20-04-2024,120,5,Perfect for running,nike shoes
+5,6,15-05-2024,150,4,Comfortable and stylish,adidas sneakers
+6,7,10-06-2024,350,5,Best headphones,sony headphones
+7,8,01-07-2024,50,4,Very useful,amazon echo
+8,9,15-07-2024,400,5,Great for adventures,gopro camera
+9,10,05-08-2024,90,4,Good quality,puma jacket
+10,1,15-08-2024,999.99,5,Love it,apple iphone
+11,402,04-05-2024,1298.7,4,Excellent product,bose headphones
+12,398,07-05-2024,462.61,3,Disappointed,smart tv
+13,434,25-05-2024,206.48,4,Amazing!,sony headphones
+14,393,10-11-2024,1751.09,4,Excellent product,garmin watch
+15,287,12-01-2024,671.16,1,Amazing!,dell laptop
+16,127,18-08-2024,1143.57,5,Excellent product,lenovo yoga
+17,474,15-05-2024,226.39,4,Very useful,samsung galaxy
+18,78,23-10-2024,1261.61,3,Excellent product,gopro camera
+19,18,13-03-2024,1212.5,1,Love it,puma jacket
+20,214,19-04-2024,1900.23,1,Best headphones,amazon echo
+21,54,23-08-2024,790.38,2,Good quality,amazon echo
+22,457,08-10-2024,806.8,2,Very good phone,garmin watch
+23,126,22-04-2024,1256.46,2,Love it,puma jacket
+24,348,19-11-2024,916.33,2,Not worth the price,amazon echo
+25,20,23-02-2024,1375.69,4,Perfect for running,lenovo yoga
+26,92,19-10-2024,1958.19,4,Best headphones,adidas sneakers
+27,279,20-07-2024,1140.44,3,Satisfied,ps5
+28,345,03-12-2024,1530.38,2,Best headphones,gopro camera
+29,492,07-05-2024,1366.41,3,Good quality,sony headphones
+30,436,29-04-2024,1408.75,1,Satisfied,ps5
+31,39,06-07-2024,655.36,3,Best headphones,nike shoes
+32,96,25-06-2024,711.11,5,Highly recommended,nike shoes
+33,106,14-11-2024,1574.84,1,Very good phone,puma jacket
+34,355,23-08-2024,1281.6,3,Very useful,ps5
+35,278,28-01-2024,611.38,5,Love it,dell laptop
+36,215,21-09-2024,1064.49,3,Amazing!,nike shoes
+37,281,20-12-2024,1515.86,5,Disappointed,adidas sneakers
+38,10,24-10-2024,713.8,5,Best headphones,garmin watch
+39,132,22-10-2024,1311.04,1,Great for adventures,sony headphones
+40,331,20-06-2024,566.82,3,Very useful,samsung galaxy
+41,155,22-02-2024,32.61,1,Love it,adidas sneakers
+42,191,18-07-2024,1688.5,1,Comfortable and stylish,adidas sneakers
+43,378,16-03-2024,340.24,4,Perfect for running,bose headphones
+44,89,04-07-2024,1911.83,5,Not worth the price,gopro camera
+45,222,07-04-2024,419.63,4,Love it,gopro camera
+46,188,19-01-2024,1509.16,4,Great for adventures,puma jacket
+47,49,21-07-2024,993.49,5,Love it,lenovo yoga
+48,193,06-06-2024,1950.91,4,Highly recommended,sony headphones
+49,313,07-10-2024,91.79,4,Love it,fitbit charge
+50,48,23-11-2024,1419.71,2,Great laptop,nike shoes
+51,267,17-02-2024,1384.17,5,Amazing!,puma jacket
+52,117,14-08-2024,553.74,4,Satisfied,ps5
+53,59,20-05-2024,249.76,4,Highly recommended,dell laptop
+54,85,05-03-2024,1770.77,1,Excellent product,garmin watch
+55,464,26-03-2024,58.53,4,Highly recommended,fitbit charge
+56,188,21-07-2024,1769.44,3,Satisfied,apple iphone
+57,78,16-01-2024,1948.91,1,Satisfied,nike shoes
+58,135,20-01-2024,586.52,2,Great for adventures,garmin watch
+59,132,28-10-2024,410.52,4,Satisfied,garmin watch
+60,435,18-07-2024,132.46,4,Best headphones,puma jacket
+61,349,12-08-2024,1679.27,2,Excellent product,adidas sneakers
+62,464,23-01-2024,40.54,2,Excellent product,dell laptop
+63,391,13-07-2024,844.01,1,Love it,gopro camera
+64,69,24-02-2024,569.34,2,Not worth the price,amazon echo
+65,383,08-08-2024,257.48,4,Great laptop,smart tv
+66,218,24-01-2024,154.68,4,Great laptop,garmin watch
+67,147,07-04-2024,388.57,5,Highly recommended,gopro camera
+68,264,25-11-2024,1085.99,4,Highly recommended,garmin watch
+69,353,06-10-2024,696.02,2,Amazing!,lenovo yoga
+70,338,30-08-2024,1242.63,5,Not worth the price,gopro camera
+71,158,04-08-2024,1796.14,5,Best headphones,smart tv
+72,63,17-07-2024,805.52,2,Comfortable and stylish,apple iphone
+73,477,18-12-2024,428.58,5,Best headphones,dell laptop
+74,189,17-05-2024,375.06,4,Comfortable and stylish,garmin watch
+75,336,06-08-2024,1686.88,2,Perfect for running,sony headphones
+76,404,20-06-2024,1417.49,5,Love it,smart tv
+77,463,05-02-2024,1532.16,4,Amazing!,garmin watch
+78,300,29-02-2024,424.97,5,Disappointed,puma jacket
+79,499,08-11-2024,1571.05,4,Highly recommended,smart tv
+80,267,10-01-2024,942.01,3,Perfect for running,amazon echo
+81,138,09-07-2024,1739.96,5,Good quality,adidas sneakers
+82,236,01-12-2024,309.26,1,Very useful,samsung galaxy
+83,146,26-08-2024,596.77,3,Very good phone,samsung galaxy
+84,119,26-05-2024,500.6,5,Great laptop,fitbit charge
+85,79,16-09-2024,636.37,1,Very good phone,smart tv
+86,158,06-04-2024,1085.89,5,Best headphones,smart tv
+87,408,27-12-2024,797.18,5,Comfortable and stylish,bose headphones
+88,60,23-01-2024,1497.52,4,Great for adventures,gopro camera
+89,444,26-04-2024,1051.78,3,Love it,amazon echo
+90,181,23-03-2024,708.86,3,Satisfied,lenovo yoga
+91,108,30-07-2024,1119.01,5,Great laptop,bose headphones
+92,374,26-08-2024,1408.54,2,Love it,dell laptop
+93,472,15-08-2024,829.27,2,Best headphones,puma jacket
+94,25,06-03-2024,1622.05,4,Amazing!,ps5
+95,337,22-04-2024,599.85,3,Disappointed,nike shoes
+96,31,15-11-2024,117.92,1,Great laptop,apple iphone
+97,360,26-12-2024,1312.83,4,Not worth the price,apple iphone
+98,74,24-06-2024,1615.55,4,Love it,samsung galaxy
+99,39,24-10-2024,853.17,2,Excellent product,fitbit charge
+100,143,11-03-2024,1887.52,4,Excellent product,smart tv
+101,174,13-03-2024,1149.99,1,Satisfied,bose headphones
+102,250,23-04-2024,1962.56,4,Great laptop,adidas sneakers
+103,78,14-02-2024,41.03,3,Excellent product,ps5
+104,9,15-08-2024,1882.76,2,Amazing!,lenovo yoga
+105,406,09-02-2024,60.15,2,Best headphones,nike shoes
+106,108,14-08-2024,401,1,Not worth the price,lenovo yoga
+107,119,12-12-2024,1185.67,1,Love it,fitbit charge
+108,90,23-11-2024,1245.41,4,Excellent product,puma jacket
+109,185,28-10-2024,923.11,4,Good quality,fitbit charge
+110,200,13-12-2024,1285.45,2,Good quality,adidas sneakers
+111,489,04-02-2024,1079.5,1,Very useful,garmin watch
+112,290,27-11-2024,1523.89,1,Amazing!,garmin watch
+113,256,07-05-2024,1824.58,4,Perfect for running,apple iphone
+114,171,15-02-2024,223.44,4,Very good phone,samsung galaxy
+115,144,17-09-2024,1769.92,1,Satisfied,dell laptop
+116,279,02-07-2024,113.7,5,Comfortable and stylish,bose headphones
+117,303,01-03-2024,538.51,3,Good quality,nike shoes
+118,122,23-07-2024,1742.43,2,Great for adventures,puma jacket
+119,174,30-12-2024,1701.7,3,Excellent product,adidas sneakers
+120,228,21-02-2024,1664.46,5,Perfect for running,fitbit charge
+121,261,04-02-2024,403.27,1,Good quality,nike shoes
+122,488,08-04-2024,1322.55,2,Perfect for running,gopro camera
+123,243,14-11-2024,1673.55,4,Satisfied,bose headphones
+124,357,03-07-2024,1202.29,2,Satisfied,nike shoes
+125,227,07-06-2024,175.46,1,Highly recommended,smart tv
+126,421,20-12-2024,1479.03,2,Amazing!,lenovo yoga
+127,466,22-09-2024,1591.21,5,Love it,garmin watch
+128,189,03-03-2024,1944.2,3,Comfortable and stylish,nike shoes
+129,443,09-02-2024,1406.11,4,Very useful,puma jacket
+130,243,01-06-2024,1765.12,3,Love it,bose headphones
+131,473,01-06-2024,847.52,1,Perfect for running,lenovo yoga
+132,400,17-05-2024,150.82,5,Comfortable and stylish,bose headphones
+133,147,03-01-2024,728.75,2,Best headphones,puma jacket
+134,219,06-08-2024,1963.32,3,Amazing!,sony headphones
+135,447,15-12-2024,1308.4,2,Satisfied,apple iphone
+136,236,01-09-2024,1116.04,3,Best headphones,samsung galaxy
+137,291,31-10-2024,1412.34,3,Very useful,bose headphones
+138,75,02-11-2024,649.48,1,Good quality,gopro camera
+139,445,09-10-2024,1307.51,5,Best headphones,amazon echo
+140,427,14-05-2024,461.17,1,Amazing!,ps5
+141,349,31-03-2024,1379.16,4,Amazing!,apple iphone
+142,204,28-09-2024,446.83,2,Love it,apple iphone
+143,329,20-02-2024,764.77,3,Good quality,amazon echo
+144,50,15-03-2024,1951.39,3,Highly recommended,adidas sneakers
+145,409,03-10-2024,424.38,4,Highly recommended,bose headphones
+146,47,06-10-2024,1536.98,2,Not worth the price,nike shoes
+147,101,15-07-2024,1148.92,5,Good quality,gopro camera
+148,100,02-02-2024,1054.03,1,Very good phone,puma jacket
+149,334,01-03-2024,80.01,4,Great laptop,puma jacket
+150,227,17-03-2024,579.32,3,Great for adventures,gopro camera
+151,15,04-05-2024,1847.94,3,Very useful,smart tv
+152,124,28-07-2024,1516.51,1,Love it,dell laptop
+153,289,10-04-2024,1328.93,1,Great for adventures,smart tv
+154,185,23-10-2024,627.09,4,Great for adventures,apple iphone
+155,429,21-12-2024,405.86,3,Love it,sony headphones
+156,62,18-01-2024,220.77,3,Love it,lenovo yoga
+157,217,29-09-2024,911.52,4,Great laptop,amazon echo
+158,212,12-01-2024,1369.78,5,Satisfied,puma jacket
+159,303,18-07-2024,1519.6,5,Great for adventures,nike shoes
+160,27,23-06-2024,1307.91,5,Comfortable and stylish,apple iphone
+161,413,17-06-2024,260.91,2,Disappointed,amazon echo
+162,52,11-05-2024,1922.75,4,Perfect for running,apple iphone
+163,330,21-02-2024,964.35,3,Not worth the price,fitbit charge
+164,482,21-12-2024,342.06,4,Satisfied,amazon echo
+165,42,01-06-2024,347.03,1,Not worth the price,adidas sneakers
+166,345,22-06-2024,1184.59,5,Comfortable and stylish,adidas sneakers
+167,238,21-06-2024,624.86,4,Good quality,amazon echo
+168,284,24-02-2024,732.93,5,Disappointed,adidas sneakers
+169,107,16-09-2024,1015.39,4,Satisfied,fitbit charge
+170,349,27-12-2024,316.8,5,Excellent product,bose headphones
+171,105,20-11-2024,658.38,4,Very good phone,fitbit charge
+172,15,11-02-2024,1774.33,3,Not worth the price,nike shoes
+173,369,02-04-2024,75.34,2,Excellent product,bose headphones
+174,385,14-01-2024,1423.88,1,Good quality,nike shoes
+175,422,26-06-2024,945.53,2,Perfect for running,apple iphone
+176,402,15-09-2024,200.85,2,Very useful,gopro camera
+177,104,22-12-2024,1243.72,1,Great for adventures,smart tv
+178,339,24-02-2024,706.06,1,Excellent product,fitbit charge
+179,269,17-08-2024,1447.78,5,Perfect for running,gopro camera
+180,440,06-02-2024,1345,1,Satisfied,nike shoes
+181,174,01-04-2024,1235.12,5,Good quality,garmin watch
+182,500,21-05-2024,1670.29,2,Amazing!,fitbit charge
+183,215,04-02-2024,1539.94,4,Very good phone,nike shoes
+184,422,11-10-2024,494.2,4,Best headphones,apple iphone
+185,417,08-11-2024,688.67,2,Amazing!,sony headphones
+186,13,14-03-2024,742.32,2,Excellent product,samsung galaxy
+187,317,11-07-2024,1438.62,4,Great for adventures,smart tv
+188,257,24-09-2024,306.26,4,Comfortable and stylish,ps5
+189,429,28-03-2024,438.88,3,Very useful,puma jacket
+190,66,15-09-2024,270.28,2,Highly recommended,puma jacket
+191,205,18-12-2024,152.41,3,Great laptop,smart tv
+192,108,04-02-2024,1954.15,2,Highly recommended,lenovo yoga
+193,267,08-01-2024,1411.56,1,Good quality,bose headphones
+194,481,31-08-2024,530.97,4,Perfect for running,nike shoes
+195,286,26-01-2024,998.93,3,Satisfied,puma jacket
+196,60,20-03-2024,300.19,5,Highly recommended,lenovo yoga
+197,348,12-06-2024,1274.92,2,Highly recommended,dell laptop
+198,258,26-10-2024,248.79,1,Good quality,lenovo yoga
+199,354,25-09-2024,840.07,3,Very good phone,smart tv
+200,205,04-10-2024,79.5,2,Best headphones,adidas sneakers
+201,486,30-12-2024,1406.19,3,Great for adventures,samsung galaxy
+202,309,21-05-2024,180.23,1,Perfect for running,apple iphone
+203,454,19-03-2024,1866.39,4,Not worth the price,lenovo yoga
+204,300,16-11-2024,900.08,1,Love it,amazon echo
+205,431,23-06-2024,351.64,4,Comfortable and stylish,adidas sneakers
+206,491,14-09-2024,827.77,4,Great for adventures,puma jacket
+207,401,11-09-2024,66.05,4,Disappointed,bose headphones
+208,300,02-05-2024,344.47,2,Satisfied,gopro camera
+209,279,07-08-2024,789.63,5,Very useful,smart tv
+210,419,29-01-2024,1537.47,4,Great laptop,adidas sneakers
+211,439,28-04-2024,347.05,2,Satisfied,fitbit charge
+212,193,27-10-2024,270.91,3,Perfect for running,apple iphone
+213,133,19-07-2024,504.37,1,Very useful,nike shoes
+214,397,02-06-2024,1806.71,2,Satisfied,sony headphones
+215,486,01-07-2024,346.15,1,Good quality,amazon echo
+216,250,19-11-2024,1146.61,1,Not worth the price,fitbit charge
+217,208,12-03-2024,594.17,1,Very useful,adidas sneakers
+218,125,27-06-2024,1138.39,4,Excellent product,smart tv
+219,405,01-06-2024,934.44,5,Excellent product,puma jacket
+220,469,14-04-2024,497.05,2,Disappointed,ps5
+221,378,06-05-2024,1762.72,4,Amazing!,dell laptop
+222,159,17-04-2024,193.39,3,Very useful,bose headphones
+223,237,19-12-2024,1794.28,3,Satisfied,bose headphones
+224,284,27-08-2024,1580.07,1,Not worth the price,adidas sneakers
+225,29,15-08-2024,43.62,4,Love it,bose headphones
+226,247,07-02-2024,728.99,4,Great laptop,adidas sneakers
+227,78,19-05-2024,524.45,2,Very useful,samsung galaxy
+228,132,10-01-2024,1712.58,1,Amazing!,adidas sneakers
+229,316,13-04-2024,1768.4,3,Not worth the price,apple iphone
+230,226,15-08-2024,31.71,3,Very good phone,ps5
+231,386,31-03-2024,1782.42,4,Love it,apple iphone
+232,162,24-05-2024,315.69,2,Not worth the price,nike shoes
+233,428,26-08-2024,665.93,4,Good quality,ps5
+234,244,02-03-2024,1967.84,4,Amazing!,gopro camera
+235,146,28-03-2024,1811.5,5,Perfect for running,apple iphone
+236,18,26-04-2024,1136.09,4,Best headphones,smart tv
+237,10,17-04-2024,1935.99,4,Good quality,smart tv
+238,455,31-05-2024,979.68,4,Highly recommended,apple iphone
+239,112,25-06-2024,168.27,4,Disappointed,dell laptop
+240,238,08-03-2024,339.92,3,Very good phone,ps5
+241,499,26-04-2024,1207.49,3,Great for adventures,nike shoes
+242,426,29-10-2024,1405.34,1,Best headphones,adidas sneakers
+243,71,07-11-2024,1277.11,2,Best headphones,samsung galaxy
+244,454,31-03-2024,1507.05,5,Very useful,samsung galaxy
+245,476,25-05-2024,400.81,5,Great for adventures,puma jacket
+246,124,12-03-2024,1345.22,4,Amazing!,adidas sneakers
+247,151,20-09-2024,956.36,5,Disappointed,adidas sneakers
+248,311,09-03-2024,1709.85,1,Excellent product,puma jacket
+249,148,09-03-2024,1433.54,5,Best headphones,garmin watch
+250,88,06-03-2024,1677,5,Very useful,gopro camera
+251,183,19-07-2024,284.33,3,Best headphones,nike shoes
+252,168,24-04-2024,452.29,4,Good quality,amazon echo
+253,131,25-11-2024,410.87,3,Amazing!,samsung galaxy
+254,159,18-03-2024,872.67,5,Comfortable and stylish,bose headphones
+255,65,29-03-2024,1742.45,5,Excellent product,fitbit charge
+256,499,04-09-2024,312.03,2,Satisfied,bose headphones
+257,337,02-06-2024,1329.19,3,Disappointed,adidas sneakers
+258,124,31-03-2024,98.89,2,Perfect for running,bose headphones
+259,333,19-01-2024,1511.33,1,Satisfied,nike shoes
+260,260,01-05-2024,664.19,2,Highly recommended,fitbit charge
+261,61,11-08-2024,1282.71,4,Great for adventures,ps5
+262,179,21-12-2024,1303.41,4,Great laptop,smart tv
+263,82,22-02-2024,1925.77,2,Good quality,amazon echo
+264,431,08-09-2024,45.72,4,Highly recommended,apple iphone
+265,190,23-03-2024,1293.23,5,Satisfied,sony headphones
+266,280,31-01-2024,1534.57,3,Great laptop,ps5
+267,274,26-12-2024,1746.9,3,Excellent product,bose headphones
+268,377,03-04-2024,193.05,1,Not worth the price,garmin watch
+269,129,29-09-2024,88.66,5,Satisfied,dell laptop
+270,114,12-08-2024,1025.85,1,Very useful,bose headphones
+271,448,02-10-2024,1318.6,4,Great for adventures,amazon echo
+272,326,27-10-2024,736.56,4,Best headphones,garmin watch
+273,313,27-08-2024,584.89,3,Excellent product,bose headphones
+274,213,10-10-2024,1934.49,5,Excellent product,apple iphone
+275,145,08-04-2024,991.68,1,Perfect for running,amazon echo
+276,258,04-05-2024,160.17,3,Excellent product,garmin watch
+277,204,24-03-2024,257.95,2,Amazing!,dell laptop
+278,186,11-04-2024,493.94,3,Good quality,samsung galaxy
+279,22,18-12-2024,215.84,4,Very good phone,puma jacket
+280,409,07-01-2024,630.1,4,Excellent product,ps5
+281,382,12-01-2024,290.2,2,Comfortable and stylish,apple iphone
+282,204,24-12-2024,265.24,3,Perfect for running,fitbit charge
+283,221,12-03-2024,682.62,4,Great laptop,apple iphone
+284,375,05-12-2024,1897.7,2,Comfortable and stylish,fitbit charge
+285,472,30-11-2024,773.66,1,Love it,smart tv
+286,432,16-10-2024,1260.83,5,Highly recommended,amazon echo
+287,55,28-11-2024,1059.59,1,Perfect for running,ps5
+288,93,03-11-2024,1113.18,1,Excellent product,lenovo yoga
+289,239,20-06-2024,1498.23,5,Not worth the price,ps5
+290,186,14-01-2024,840.91,1,Love it,garmin watch
+291,89,01-06-2024,1029.8,5,Best headphones,amazon echo
+292,386,26-04-2024,1047.51,3,Best headphones,lenovo yoga
+293,338,26-12-2024,739.31,1,Very useful,sony headphones
+294,310,23-12-2024,731.1,3,Highly recommended,dell laptop
+295,423,19-08-2024,1017.8,1,Excellent product,puma jacket
+296,117,16-12-2024,1525.19,2,Great for adventures,dell laptop
+297,388,10-09-2024,282.03,3,Love it,samsung galaxy
+298,184,05-04-2024,1995.18,5,Love it,adidas sneakers
+299,440,03-05-2024,1086.95,4,Comfortable and stylish,gopro camera
+300,61,28-03-2024,631.27,1,Perfect for running,puma jacket
+301,358,20-01-2024,383.49,2,Very good phone,gopro camera
+302,389,23-08-2024,659.35,1,Best headphones,apple iphone
+303,443,08-05-2024,798.9,4,Amazing!,sony headphones
+304,454,15-04-2024,1708.87,4,Good quality,fitbit charge
+305,39,04-01-2024,1165.65,2,Best headphones,apple iphone
+306,123,28-08-2024,483.18,3,Great laptop,sony headphones
+307,444,03-08-2024,289.66,5,Perfect for running,bose headphones
+308,58,19-07-2024,1514.57,3,Great for adventures,smart tv
+309,168,17-09-2024,867.31,1,Perfect for running,nike shoes
+310,272,21-10-2024,246.55,1,Amazing!,fitbit charge
+311,37,08-05-2024,1563.99,1,Perfect for running,sony headphones
+312,100,08-08-2024,380.92,1,Highly recommended,fitbit charge
+313,134,15-11-2024,667.19,1,Highly recommended,garmin watch
+314,17,10-06-2024,235.38,3,Love it,adidas sneakers
+315,291,10-02-2024,22.94,2,Perfect for running,amazon echo
+316,422,09-09-2024,976.72,4,Perfect for running,sony headphones
+317,127,21-04-2024,1558.35,2,Great for adventures,bose headphones
+318,76,04-07-2024,416.42,4,Satisfied,amazon echo
+319,36,20-09-2024,368.13,5,Highly recommended,ps5
+320,411,05-12-2024,1136.55,3,Love it,garmin watch
+321,87,26-01-2024,695.17,5,Excellent product,samsung galaxy
+322,396,11-03-2024,312.46,2,Perfect for running,amazon echo
+323,283,10-09-2024,717.14,4,Perfect for running,bose headphones
+324,282,21-05-2024,1498.47,1,Perfect for running,apple iphone
+325,262,17-11-2024,1311.1,4,Love it,sony headphones
+326,432,26-05-2024,1959.15,4,Not worth the price,puma jacket
+327,69,13-03-2024,1428.37,2,Excellent product,nike shoes
+328,266,20-12-2024,1156.14,3,Very good phone,dell laptop
+329,90,15-11-2024,622.59,5,Very good phone,adidas sneakers
+330,55,13-02-2024,1445.87,2,Not worth the price,adidas sneakers
+331,492,15-02-2024,1972.18,2,Very good phone,nike shoes
+332,231,05-01-2024,1319.54,2,Amazing!,adidas sneakers
+333,291,25-11-2024,1082.65,2,Very good phone,lenovo yoga
+334,426,09-12-2024,1855.32,1,Not worth the price,fitbit charge
+335,232,16-09-2024,712.4,4,Great for adventures,adidas sneakers
+336,371,09-05-2024,1343.16,4,Amazing!,adidas sneakers
+337,180,11-12-2024,918.53,5,Very useful,apple iphone
+338,149,04-10-2024,483.94,4,Great for adventures,garmin watch
+339,404,15-04-2024,915.36,1,Very useful,sony headphones
+340,197,13-11-2024,857.09,5,Perfect for running,sony headphones
+341,13,24-01-2024,1104.36,3,Good quality,ps5
+342,408,05-03-2024,757.28,5,Perfect for running,fitbit charge
+343,291,04-08-2024,331.5,3,Very useful,ps5
+344,76,13-04-2024,1442.92,2,Good quality,gopro camera
+345,307,12-10-2024,93.14,4,Disappointed,sony headphones
+346,176,01-09-2024,1337.65,3,Satisfied,fitbit charge
+347,315,17-04-2024,1816.68,5,Very good phone,amazon echo
+348,73,20-10-2024,945.07,2,Very good phone,smart tv
+349,250,16-04-2024,1896.92,5,Disappointed,nike shoes
+350,388,29-02-2024,660.22,4,Comfortable and stylish,adidas sneakers
+351,284,11-09-2024,1909.25,2,Amazing!,apple iphone
+352,356,30-06-2024,466.07,3,Great for adventures,bose headphones
+353,26,17-12-2024,1566.98,2,Perfect for running,puma jacket
+354,103,19-05-2024,1613.12,3,Perfect for running,ps5
+355,487,30-03-2024,1656.25,1,Not worth the price,nike shoes
+356,41,06-10-2024,479.65,3,Great for adventures,fitbit charge
+357,384,14-11-2024,488.48,1,Highly recommended,garmin watch
+358,192,19-10-2024,1456.7,4,Comfortable and stylish,puma jacket
+359,468,08-02-2024,1936.37,1,Great laptop,garmin watch
+360,2,08-12-2024,115.75,3,Satisfied,gopro camera
+361,135,12-11-2024,1512.41,3,Very useful,sony headphones
+362,386,03-02-2024,241.83,2,Very useful,adidas sneakers
+363,400,23-09-2024,506.5,4,Comfortable and stylish,smart tv
+364,331,07-02-2024,34.43,3,Not worth the price,fitbit charge
+365,189,29-01-2024,902.14,3,Best headphones,dell laptop
+366,255,18-07-2024,1412.55,4,Disappointed,amazon echo
+367,67,11-12-2024,1478.54,3,Satisfied,lenovo yoga
+368,159,16-01-2024,1343.49,2,Love it,bose headphones
+369,2,20-12-2024,118.75,1,Not worth the price,samsung galaxy
+370,54,30-08-2024,502.4,4,Very good phone,fitbit charge
+371,213,27-12-2024,787.56,1,Excellent product,sony headphones
+372,315,23-12-2024,443.39,5,Perfect for running,dell laptop
+373,191,12-06-2024,837.35,1,Satisfied,garmin watch
+374,405,05-08-2024,967.33,4,Love it,samsung galaxy
+375,161,03-11-2024,1312.58,5,Very useful,nike shoes
+376,422,01-04-2024,804.3,3,Love it,garmin watch
+377,446,15-06-2024,1650.93,1,Satisfied,amazon echo
+378,440,08-03-2024,810.73,2,Highly recommended,bose headphones
+379,415,15-06-2024,1460.98,1,Very good phone,ps5
+380,30,23-06-2024,763.78,4,Very good phone,fitbit charge
+381,211,24-10-2024,1383.03,1,Very useful,puma jacket
+382,158,01-12-2024,825.63,5,Great laptop,garmin watch
+383,69,09-10-2024,252.53,2,Good quality,apple iphone
+384,149,04-02-2024,1942.26,3,Good quality,garmin watch
+385,213,13-06-2024,40.71,4,Satisfied,bose headphones
+386,64,02-04-2024,529.56,4,Disappointed,adidas sneakers
+387,49,17-08-2024,448.75,1,Very useful,dell laptop
+388,89,02-06-2024,1130.12,1,Not worth the price,apple iphone
+389,304,03-08-2024,1643.65,5,Love it,dell laptop
+390,364,06-11-2024,1271.88,1,Satisfied,fitbit charge
+391,58,04-04-2024,1215.28,3,Highly recommended,gopro camera
+392,424,01-08-2024,1877.81,3,Not worth the price,apple iphone
+393,381,24-04-2024,770.19,3,Amazing!,bose headphones
+394,363,16-11-2024,428.58,2,Very useful,nike shoes
+395,163,28-01-2024,156.77,5,Disappointed,nike shoes
+396,427,24-11-2024,1716.74,2,Comfortable and stylish,smart tv
+397,11,30-08-2024,267.19,4,Highly recommended,apple iphone
+398,489,14-03-2024,1765.93,5,Highly recommended,smart tv
+399,410,09-02-2024,275.52,1,Love it,dell laptop
+400,134,03-10-2024,731.89,3,Not worth the price,gopro camera
+401,450,30-10-2024,1247.21,3,Amazing!,nike shoes
+402,209,08-04-2024,1472.92,1,Very useful,ps5
+403,152,11-12-2024,517.13,2,Comfortable and stylish,lenovo yoga
+404,102,12-05-2024,1984.72,2,Good quality,lenovo yoga
+405,346,05-03-2024,973.02,4,Perfect for running,ps5
+406,173,04-02-2024,1764.51,1,Not worth the price,amazon echo
+407,90,09-10-2024,451.68,3,Satisfied,smart tv
+408,403,22-08-2024,1051.81,4,Excellent product,apple iphone
+409,444,28-10-2024,1778.52,1,Very good phone,smart tv
+410,145,22-09-2024,276.26,5,Very useful,garmin watch
+411,272,30-03-2024,1498.39,1,Satisfied,garmin watch
+412,279,28-02-2024,1286.7,2,Comfortable and stylish,garmin watch
+413,63,14-02-2024,1756.27,4,Highly recommended,puma jacket
+414,62,30-03-2024,529.33,3,Not worth the price,garmin watch
+415,16,19-04-2024,1651.35,4,Amazing!,puma jacket
+416,35,15-04-2024,360.45,3,Not worth the price,bose headphones
+417,374,28-06-2024,598.23,2,Amazing!,fitbit charge
+418,105,17-07-2024,1587.23,3,Amazing!,sony headphones
+419,275,23-08-2024,697.3,1,Good quality,nike shoes
+420,47,24-02-2024,443.11,5,Love it,fitbit charge
+421,415,13-10-2024,1096.23,1,Very good phone,puma jacket
+422,132,06-04-2024,959.47,2,Comfortable and stylish,puma jacket
+423,481,13-11-2024,939.24,1,Best headphones,sony headphones
+424,393,19-10-2024,681.89,2,Good quality,adidas sneakers
+425,395,21-11-2024,1331.77,5,Very good phone,puma jacket
+426,432,15-06-2024,1682.26,5,Great laptop,sony headphones
+427,420,29-01-2024,1910.22,1,Good quality,samsung galaxy
+428,56,24-07-2024,349.09,4,Disappointed,gopro camera
+429,345,05-10-2024,504.56,5,Not worth the price,ps5
+430,205,22-12-2024,1054.25,4,Satisfied,bose headphones
+431,135,28-01-2024,260.48,2,Great laptop,samsung galaxy
+432,385,03-12-2024,250.04,5,Amazing!,garmin watch
+433,13,12-05-2024,322.62,4,Very good phone,smart tv
+434,381,02-11-2024,1629.22,4,Great for adventures,adidas sneakers
+435,58,22-12-2024,1602.95,5,Love it,samsung galaxy
+436,18,19-08-2024,33.89,3,Satisfied,ps5
+437,427,25-09-2024,1970.97,3,Satisfied,garmin watch
+438,89,24-09-2024,1434.92,1,Love it,smart tv
+439,208,15-05-2024,1955.64,5,Love it,sony headphones
+440,52,24-09-2024,966.49,5,Excellent product,samsung galaxy
+441,321,17-01-2024,358.05,3,Very useful,apple iphone
+442,473,21-11-2024,947.02,2,Best headphones,bose headphones
+443,248,12-09-2024,561.83,2,Amazing!,bose headphones
+444,279,09-03-2024,1521.21,3,Perfect for running,smart tv
+445,113,22-10-2024,407.45,4,Perfect for running,nike shoes
+446,359,20-10-2024,1136.24,4,Great laptop,ps5
+447,194,18-02-2024,152.19,2,Not worth the price,lenovo yoga
+448,174,15-04-2024,1056.88,2,Not worth the price,smart tv
+449,361,23-12-2024,1629.55,4,Amazing!,sony headphones
+450,205,27-06-2024,822.21,4,Not worth the price,dell laptop
+451,420,23-11-2024,1898.66,4,Comfortable and stylish,garmin watch
+452,256,20-08-2024,1316.9,4,Great for adventures,sony headphones
+453,471,18-10-2024,145.83,4,Love it,sony headphones
+454,77,14-03-2024,574.64,1,Great laptop,lenovo yoga
+455,305,02-10-2024,35.23,2,Perfect for running,puma jacket
+456,252,30-09-2024,1101.29,1,Good quality,adidas sneakers
+457,193,02-02-2024,981.99,2,Best headphones,sony headphones
+458,161,26-03-2024,1133.35,3,Comfortable and stylish,garmin watch
+459,335,19-11-2024,1594.48,1,Very useful,lenovo yoga
+460,50,29-07-2024,1407.59,5,Amazing!,lenovo yoga
+461,481,25-09-2024,246.49,3,Love it,gopro camera
+462,324,11-12-2024,869.46,5,Disappointed,amazon echo
+463,179,13-09-2024,1419.76,4,Love it,gopro camera
+464,324,23-05-2024,321.77,1,Love it,adidas sneakers
+465,430,20-12-2024,201.02,4,Love it,apple iphone
+466,483,31-03-2024,38.73,2,Disappointed,ps5
+467,146,01-01-2024,166.78,2,Very useful,samsung galaxy
+468,102,15-12-2024,279.49,2,Perfect for running,ps5
+469,73,31-01-2024,1117.46,5,Best headphones,samsung galaxy
+470,40,14-04-2024,956.7,1,Best headphones,adidas sneakers
+471,459,20-12-2024,1224.77,5,Very good phone,smart tv
+472,443,27-03-2024,238.14,2,Comfortable and stylish,bose headphones
+473,189,12-11-2024,817.9,5,Comfortable and stylish,dell laptop
+474,293,06-10-2024,1474.31,5,Very useful,dell laptop
+475,149,03-08-2024,1157.75,5,Comfortable and stylish,bose headphones
+476,434,01-02-2024,1461.35,5,Disappointed,nike shoes
+477,17,26-01-2024,1881.41,5,Great for adventures,garmin watch
+478,54,26-03-2024,695.69,1,Great for adventures,dell laptop
+479,259,09-11-2024,1138.11,1,Good quality,garmin watch
+480,189,30-03-2024,747.44,3,Perfect for running,sony headphones
+481,237,25-06-2024,727.25,5,Great laptop,samsung galaxy
+482,394,16-09-2024,1454.6,5,Perfect for running,lenovo yoga
+483,425,06-09-2024,720.43,4,Amazing!,apple iphone
+484,359,10-02-2024,1313.75,5,Perfect for running,bose headphones
+485,446,20-01-2024,151.55,3,Excellent product,dell laptop
+486,222,20-05-2024,1366.31,1,Great laptop,smart tv
+487,105,27-02-2024,1451.5,2,Best headphones,samsung galaxy
+488,207,20-03-2024,1437.61,5,Comfortable and stylish,samsung galaxy
+489,221,09-10-2024,463.85,3,Not worth the price,apple iphone
+490,150,20-09-2024,1722.63,2,Amazing!,fitbit charge
+491,384,14-04-2024,1561.72,1,Excellent product,adidas sneakers
+492,381,10-03-2024,432.76,1,Great for adventures,adidas sneakers
+493,408,29-10-2024,1028.78,3,Disappointed,sony headphones
+494,385,18-06-2024,638.28,4,Great laptop,smart tv
+495,9,11-01-2024,1974.86,5,Great for adventures,garmin watch
+496,12,04-07-2024,1931.3,5,Amazing!,adidas sneakers
+497,381,16-11-2024,22.51,4,Very good phone,nike shoes
+498,395,03-01-2024,202.34,1,Good quality,sony headphones
+499,388,22-02-2024,485.61,1,Perfect for running,gopro camera
+500,295,21-08-2024,1479.48,4,Excellent product,dell laptop

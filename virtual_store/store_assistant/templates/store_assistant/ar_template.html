@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AR View</title>
+    <script src="js/artoolkit.min.js"></script>
+    <script src="js/three.min.js"></script>
+</head>
+<body>
+    <div id="camera-feed"></div>
+
+    <script>
+        // Initialize ARToolKit
+        var arToolkitSource = new ARToolkitSource({
+            sourceType: 'webcam'
+        });
+
+        arToolkitSource.init(function onReady() {
+            arToolkitContext = new ARToolkitContext({
+                cameraParametersUrl: 'data/camera_para.dat',
+                detectionMode: 'mono'
+            });
+
+            arToolkitContext.init(function onCompleted() {
+                // Camera and AR context initialized
+            });
+
+            var markerRoot = new THREE.Group();
+            markerRoot.name = 'markerRoot';
+            scene.add(markerRoot);
+
+            new ARMarkerControls(arToolkitContext, markerRoot, {
+                type: 'pattern',
+                patternUrl: 'data/patt.hiro'
+            });
+        });
+    </script>
+</body>
+</html>

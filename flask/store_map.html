@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find My Product</title>
+    <link rel="stylesheet" href="store_map.css">
+</head>
+<body>
+    <div id="search-container">
+        <h1>Find My Product</h1>
+        <input type="text" id="product-input" placeholder="Enter product name">
+        <button onclick="searchProduct()">Search</button>
+    </div>
+
+    <div id="store-template">
+        <div id="entrance" class="store-element">Entrance</div>
+        <div id="store-map">
+            <div class="zone" id="zone1">
+                <div class="zone-label">Zone 1</div>
+                <div class="section" id="sectionA">Section A</div>
+                <div class="section" id="sectionB">Section B</div>
+                <div class="section" id="sectionC">Section C</div>
+                <div class="section" id="sectionD">Section D</div>
+            </div>
+            <div class="zone" id="zone2">
+                <div class="zone-label">Zone 2</div>
+                <div class="section" id="sectionE">Section E</div>
+                <div class="section" id="sectionF">Section F</div>
+                <div class="section" id="sectionG">Section G</div>
+                <div class="section" id="sectionH">Section H</div>
+            </div>
+            <div class="zone" id="zone3">
+                <div class="zone-label">Zone 3</div>
+                <div class="section" id="sectionI">Section I</div>
+                <div class="section" id="sectionJ">Section J</div>
+                <div class="section" id="sectionK">Section K</div>
+                <div class="section" id="sectionL">Section L</div>
+            </div>
+        </div>
+        <div id="exit" class="store-element">Exit</div>
+        <div id="cash-counter" class="store-element">Cash Counter</div>
+    </div>
+
+    <div id="product-info">
+        <h3>Product Information</h3>
+        <img id="product-image" src="" alt="Product Image">
+        <p id="product-location"></p>
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>

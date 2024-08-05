@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login/Sign Up</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+        html {
+            line-height: 1.15;
+          }
+          body {
+            margin: 0;
+          }
+          * {
+            box-sizing: border-box;
+            border-width: 0;
+            border-style: solid;
+          }
+    
+          /* Header styling */
+          header {
+              background-color: #232f3e;
+              color: white;
+              padding: 5px;
+              text-align: center;
+              font-size: 2em;
+              font-weight: bold;
+          }
+    
+          /* Navigation bar styling */
+          .navbar {
+              display: flex;
+              justify-content: space-around;
+              background-color: #232f3e;
+              padding: 10px 0;
+          }
+    
+          .navbar a {
+              color: white;
+              padding: 14px 20px;
+              text-decoration: none;
+              text-align: center;
+              font-size: 1.2em;
+              transition: background-color 0.3s ease, border-radius 0.3s ease;
+          }
+    
+          .navbar a:hover {
+              background-color: #ff9900;
+              border-radius: 5px;
+          }
+
+      body {
+        font-family: 'Inter', sans-serif;
+        background: linear-gradient(135deg, #6b73ff 0%, #000dff 100%);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+      .container {
+        background: white;
+        border-radius: 12px;
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+        overflow: hidden;
+        display: flex;
+        width: 900px;
+        max-width: 100%;
+      }
+      .form-container {
+        padding: 50px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 50%;
+      }
+      .form-container h2 {
+        font-weight: 800;
+        margin-bottom: 20px;
+        color: #333;
+      }
+      .form-container p {
+        margin-bottom: 20px;
+        color: #666;
+      }
+      .form-container input {
+        border: 1px solid #ddd;
+        border-radius: 6px;
+        padding: 15px;
+        margin-bottom: 20px;
+        font-size: 16px;
+        width: 100%;
+      }
+      .form-container button {
+        background: #6b73ff;
+        color: white;
+        border: none;
+        padding: 15px;
+        border-radius: 6px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: background 0.3s ease;
+        margin-bottom: 20px;
+      }
+      .form-container button:hover {
+        background: #5a62e5;
+      }
+      .social-login {
+        display: flex;
+        justify-content: space-between;
+      }
+      .social-login a {
+        text-decoration: none;
+        flex-grow: 1;
+        margin: 0 5px;
+      }
+      .social-login button {
+        background: #4267B2;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 6px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: background 0.3s ease;
+        width: 100%;
+      }
+      .social-login button.google {
+        background: #DB4437;
+      }
+      .social-login button.facebook {
+        background: #4267B2;
+      }
+      .social-login button:hover {
+        opacity: 0.9;
+      }
+      .overlay-container {
+        background: linear-gradient(135deg, #000dff 0%, #6b73ff 100%);
+        padding: 50px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 50%;
+        color: white;
+        text-align: center;
+      }
+      .overlay-container h2 {
+        font-weight: 800;
+        margin-bottom: 20px;
+      }
+      .overlay-container p {
+        margin-bottom: 40px;
+      }
+      .overlay-container button {
+        background: transparent;
+        border: 2px solid white;
+        padding: 15px;
+        border-radius: 6px;
+        font-size: 16px;
+        color: white;
+        cursor: pointer;
+        transition: background 0.3s ease;
+      }
+      .overlay-container button:hover {
+        background: rgba(255, 255, 255, 0.1);
+      }
+    </style>
+  </head>
+  <body>
+  <header>
+      <h1>Virtual Store Assistant</h1>
+  </header>
+
+    <div class="container">
+      <div class="form-container" id="loginForm">
+        <h2>Welcome Back</h2>
+        <p>Please login to your account</p>
+        <input type="email" placeholder="Email" />
+        <input type="password" placeholder="Password" />
+        <button onclick="window.location.href='{% url 'index' %}';" class="GFG">Login</button>
+        <div class="social-login">
+          <a href="https://accounts.google.com/" target="_blank">
+            <button class="google">Login with Google</button>
+          </a>
+          <a href="https://www.facebook.com/login.php/" target="_blank">
+            <button class="facebook">Login with Facebook</button>
+          </a>
+        </div>
+      </div>
+      <div class="overlay-container" id="signUpOverlay">
+        <h2>New Here?</h2>
+        <p>Sign up and discover more</p>
+        <button onclick="showSignUp()">Sign Up</button>
+      </div>
+      <div class="form-container" id="signUpForm" style="display: none;">
+        <h2>Create Account</h2>
+        <p>Sign up to get started!</p>
+        <input type="text" placeholder="Username" />
+        <input type="email" placeholder="Email" />
+        <input type="password" placeholder="Password" />
+        <button onclick="window.location.href='{% url 'index' %}';" class="GFG">Sign Up</button>
+        <div class="social-login">
+          <a href="https://accounts.google.com/" target="_blank">
+            <button class="google">Sign up with Google</button>
+          </a>
+          <a href="https://www.facebook.com/login.php/" target="_blank">
+            <button class="facebook">Sign up with Facebook</button>
+          </a>
+        </div>
+      </div>
+      <div class="overlay-container" id="loginOverlay" style="display: none;">
+        <h2>Already have an account?</h2>
+        <p>Login and continue</p>
+        <button onclick="showLogin()">Login</button>
+      </div>
+    </div>
+
+    <script>
+      function showSignUp() {
+        document.getElementById('loginForm').style.display = 'none';
+        document.getElementById('signUpOverlay').style.display = 'none';
+        document.getElementById('signUpForm').style.display = 'flex';
+        document.getElementById('loginOverlay').style.display = 'flex';
+      }
+      function showLogin() {
+        document.getElementById('signUpForm').style.display = 'none';
+        document.getElementById('loginOverlay').style.display = 'none';
+        document.getElementById('loginForm').style.display = 'flex';
+        document.getElementById('signUpOverlay').style.display = 'flex';
+      }
+    </script>
+  </body>
+</html>

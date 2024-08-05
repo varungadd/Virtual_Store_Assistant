@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Product Location</title>
+</head>
+<body>
+    <h1>Product Location</h1>
+    {% if product %}
+        <p>{{ product.product_name }} is located at {{ product.location }}.</p>
+    {% else %}
+        <p>Product not found.</p>
+    {% endif %}
+    <a href="{% url 'index' %}">Back to Home</a>
+</body>
+</html>

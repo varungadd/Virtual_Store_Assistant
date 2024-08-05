@@ -1,0 +1,711 @@
+﻿product_id,product_name,category,price,location,stock_availability
+1,Apple iPhone 13,Electronics,999.99,Section A,In Stock
+2,Samsung Galaxy S21,Electronics,799.99,Section B,In Stock
+3,Lenovo Yoga Laptop,Electronics,1200,Section C,In Stock
+4,HP Pavilion Laptop,Electronics,1100,Section D,Out of Stock
+5,Nike Running Shoes,Sports,120,Section E,In Stock
+6,Adidas Sneakers,Sports,150,Section F,In Stock
+7,Sony WH-1000XM4 Headphones,Electronics,350,Section G,In Stock
+8,Amazon Echo Dot,Electronics,50,Section H,In Stock
+9,GoPro HERO9,Electronics,400,Section I,In Stock
+10,Puma Sports Jacket,Sports,90,Section J,In Stock
+11,Samsung Galaxy Tab,Electronics,998.34,Section A,Out of Stock
+12,Reebok Running Shoes,Sports,128.79,Section U,Out of Stock
+13,Under Armour T-Shirt,Sports,38.27,Section M,In Stock
+14,Puma Gym Gloves,Sports,42.09,Section B,Out of Stock
+15,Dell Inspiron Laptop,Electronics,121.35,Section S,In Stock
+16,Garmin Forerunner 45,Sports,38.87,Section P,Out of Stock
+17,Apple MacBook Pro,Electronics,548.41,Section M,Out of Stock
+18,Puma Gym Gloves,Sports,117.72,Section O,In Stock
+19,Bose QuietComfort 35,Electronics,1155.64,Section F,Out of Stock
+20,New Balance Running Shorts,Sports,144.16,Section U,In Stock
+21,Nike Yoga Mat,Sports,185.59,Section R,Out of Stock
+22,Apple Watch Series 6,Electronics,693.14,Section G,In Stock
+23,Garmin Forerunner 45,Sports,153.88,Section E,Out of Stock
+24,Sony PlayStation 5,Electronics,1933.11,Section G,In Stock
+25,Asics Gel-Kayano 27,Sports,237.17,Section I,In Stock
+26,Asics Gel-Kayano 27,Sports,181.23,Section S,Out of Stock
+27,Puma Gym Gloves,Sports,149.79,Section Z,In Stock
+28,Fitbit Charge 4,Sports,31.61,Section J,Out of Stock
+29,Samsung Galaxy Tab,Electronics,368.57,Section H,In Stock
+30,Asics Gel-Kayano 27,Sports,277.99,Section V,Out of Stock
+31,Wilson Tennis Racket,Sports,158.57,Section O,In Stock
+32,Google Nest Hub,Electronics,739.51,Section K,In Stock
+33,Canon EOS M50,Electronics,171.58,Section X,Out of Stock
+34,Canon EOS M50,Electronics,1886.51,Section Y,In Stock
+35,Canon EOS M50,Electronics,1367.03,Section R,Out of Stock
+36,Reebok Running Shoes,Sports,54.01,Section Y,Out of Stock
+37,Bose QuietComfort 35,Electronics,127.82,Section I,Out of Stock
+38,Samsung Galaxy Tab,Electronics,1771.55,Section A,In Stock
+39,Roku Streaming Stick,Electronics,149.14,Section K,Out of Stock
+40,Apple Watch Series 6,Electronics,824.51,Section X,In Stock
+41,Apple Watch Series 6,Electronics,207.42,Section H,In Stock
+42,Apple MacBook Pro,Electronics,444.34,Section I,Out of Stock
+43,New Balance Running Shorts,Sports,79.03,Section K,In Stock
+44,Bose QuietComfort 35,Electronics,1304.62,Section B,Out of Stock
+45,Nike Yoga Mat,Sports,118.94,Section G,In Stock
+46,Google Nest Hub,Electronics,1785.87,Section Z,Out of Stock
+47,Fitbit Charge 4,Sports,292.37,Section R,Out of Stock
+48,Samsung Galaxy Tab,Electronics,1594.75,Section R,In Stock
+49,Nike Yoga Mat,Sports,175.4,Section J,In Stock
+50,Puma Gym Gloves,Sports,298.83,Section I,Out of Stock
+51,Reebok Running Shoes,Sports,77.07,Section K,Out of Stock
+52,Under Armour T-Shirt,Sports,256.81,Section V,In Stock
+53,Canon EOS M50,Electronics,569.71,Section Q,In Stock
+54,New Balance Running Shorts,Sports,167.59,Section M,In Stock
+55,Apple Watch Series 6,Electronics,803.19,Section B,In Stock
+56,Bose QuietComfort 35,Electronics,472.22,Section F,Out of Stock
+57,Canon EOS M50,Electronics,1034.1,Section W,In Stock
+58,Under Armour T-Shirt,Sports,240.37,Section W,In Stock
+59,Roku Streaming Stick,Electronics,1612.77,Section J,In Stock
+60,Google Nest Hub,Electronics,368.2,Section R,In Stock
+61,Under Armour T-Shirt,Sports,121.59,Section B,In Stock
+62,Google Nest Hub,Electronics,177.29,Section D,Out of Stock
+63,Wilson Tennis Racket,Sports,29.39,Section K,In Stock
+64,Reebok Running Shoes,Sports,218.1,Section L,In Stock
+65,Sony PlayStation 5,Electronics,1062.87,Section D,Out of Stock
+66,Reebok Running Shoes,Sports,299.02,Section W,In Stock
+67,Nike Yoga Mat,Sports,147.34,Section E,Out of Stock
+68,Garmin Forerunner 45,Sports,233.52,Section G,In Stock
+69,Samsung Galaxy Tab,Electronics,990.82,Section J,Out of Stock
+70,Google Nest Hub,Electronics,653.23,Section J,In Stock
+71,Samsung Galaxy Tab,Electronics,460.92,Section C,Out of Stock
+72,Wilson Tennis Racket,Sports,140.55,Section B,Out of Stock
+73,Apple Watch Series 6,Electronics,615.8,Section X,Out of Stock
+74,Apple Watch Series 6,Electronics,249.32,Section J,Out of Stock
+75,Asics Gel-Kayano 27,Sports,52.1,Section I,In Stock
+76,Roku Streaming Stick,Electronics,352.33,Section H,Out of Stock
+77,Puma Gym Gloves,Sports,271.45,Section G,In Stock
+78,Roku Streaming Stick,Electronics,234,Section X,In Stock
+79,Reebok Running Shoes,Sports,152.11,Section B,In Stock
+80,Puma Gym Gloves,Sports,114.84,Section B,In Stock
+81,Asics Gel-Kayano 27,Sports,235.15,Section B,Out of Stock
+82,Reebok Running Shoes,Sports,117.34,Section C,In Stock
+83,Google Nest Hub,Electronics,459.75,Section B,Out of Stock
+84,Canon EOS M50,Electronics,367.61,Section J,In Stock
+85,Nike Yoga Mat,Sports,141.42,Section V,In Stock
+86,Google Nest Hub,Electronics,1111.68,Section M,Out of Stock
+87,Dell Inspiron Laptop,Electronics,207.01,Section P,In Stock
+88,Apple MacBook Pro,Electronics,288.54,Section M,Out of Stock
+89,Asics Gel-Kayano 27,Sports,244.19,Section P,In Stock
+90,Bose QuietComfort 35,Electronics,175.7,Section L,Out of Stock
+91,Under Armour T-Shirt,Sports,154.7,Section X,Out of Stock
+92,New Balance Running Shorts,Sports,23.99,Section Y,In Stock
+93,Puma Gym Gloves,Sports,121.16,Section U,Out of Stock
+94,New Balance Running Shorts,Sports,177.42,Section S,In Stock
+95,Fitbit Charge 4,Sports,35.85,Section E,Out of Stock
+96,Bose QuietComfort 35,Electronics,1802.5,Section Y,Out of Stock
+97,Google Nest Hub,Electronics,1992.83,Section U,In Stock
+98,Under Armour T-Shirt,Sports,124.9,Section P,In Stock
+99,Sony PlayStation 5,Electronics,991.77,Section F,In Stock
+100,Nike Yoga Mat,Sports,184.15,Section N,Out of Stock
+101,Fitbit Charge 4,Sports,178.16,Section O,In Stock
+102,Roku Streaming Stick,Electronics,1427.91,Section O,In Stock
+103,Sony PlayStation 5,Electronics,1850.33,Section O,Out of Stock
+104,Garmin Forerunner 45,Sports,104.62,Section N,In Stock
+105,Canon EOS M50,Electronics,1023.36,Section Y,In Stock
+106,Garmin Forerunner 45,Sports,89.47,Section X,Out of Stock
+107,Bose QuietComfort 35,Electronics,1257.33,Section H,Out of Stock
+108,Adidas Sports Bag,Sports,206.07,Section G,Out of Stock
+109,Bose QuietComfort 35,Electronics,1492.34,Section K,Out of Stock
+110,Bose QuietComfort 35,Electronics,1356.37,Section R,Out of Stock
+111,Google Nest Hub,Electronics,1267.52,Section X,In Stock
+112,Bose QuietComfort 35,Electronics,319.82,Section X,Out of Stock
+113,Roku Streaming Stick,Electronics,494.41,Section C,In Stock
+114,Samsung Galaxy Tab,Electronics,1439.44,Section Y,Out of Stock
+115,Under Armour T-Shirt,Sports,126.84,Section U,In Stock
+116,Dell Inspiron Laptop,Electronics,672.94,Section O,Out of Stock
+117,Canon EOS M50,Electronics,1468.15,Section J,In Stock
+118,Canon EOS M50,Electronics,1478.89,Section A,Out of Stock
+119,New Balance Running Shorts,Sports,239.57,Section D,In Stock
+120,Asics Gel-Kayano 27,Sports,41.11,Section N,In Stock
+121,Adidas Sports Bag,Sports,138.95,Section T,In Stock
+122,New Balance Running Shorts,Sports,169.67,Section Y,In Stock
+123,Canon EOS M50,Electronics,1711.6,Section B,Out of Stock
+124,Sony PlayStation 5,Electronics,289.85,Section T,In Stock
+125,Wilson Tennis Racket,Sports,243.71,Section Y,In Stock
+126,Samsung Galaxy Tab,Electronics,1201.42,Section D,Out of Stock
+127,Apple Watch Series 6,Electronics,876.92,Section M,In Stock
+128,Adidas Sports Bag,Sports,54.08,Section F,Out of Stock
+129,Bose QuietComfort 35,Electronics,1515.3,Section R,In Stock
+130,Wilson Tennis Racket,Sports,165.04,Section M,Out of Stock
+131,Apple MacBook Pro,Electronics,1726.16,Section D,In Stock
+132,Dell Inspiron Laptop,Electronics,1474.53,Section K,Out of Stock
+133,Google Nest Hub,Electronics,448.8,Section U,Out of Stock
+134,Sony PlayStation 5,Electronics,224.21,Section G,In Stock
+135,Apple Watch Series 6,Electronics,418.84,Section A,In Stock
+136,Apple Watch Series 6,Electronics,1410.82,Section W,In Stock
+137,Microsoft Surface Pro,Electronics,965.52,Section I,In Stock
+138,Puma Gym Gloves,Sports,53.71,Section M,In Stock
+139,Garmin Forerunner 45,Sports,239.4,Section D,Out of Stock
+140,Wilson Tennis Racket,Sports,244.11,Section I,Out of Stock
+141,Fitbit Charge 4,Sports,123.37,Section W,Out of Stock
+142,Puma Gym Gloves,Sports,178.79,Section F,In Stock
+143,Google Nest Hub,Electronics,1732.44,Section A,Out of Stock
+144,Puma Gym Gloves,Sports,220.07,Section D,Out of Stock
+145,Microsoft Surface Pro,Electronics,344.56,Section H,In Stock
+146,Adidas Sports Bag,Sports,104.4,Section V,Out of Stock
+147,Reebok Running Shoes,Sports,171.19,Section Q,In Stock
+148,Samsung Galaxy Tab,Electronics,1557.57,Section G,Out of Stock
+149,Dell Inspiron Laptop,Electronics,199.28,Section N,Out of Stock
+150,Canon EOS M50,Electronics,1354.68,Section K,Out of Stock
+151,Roku Streaming Stick,Electronics,1411.57,Section Y,Out of Stock
+152,Fitbit Charge 4,Sports,277.5,Section L,In Stock
+153,Google Nest Hub,Electronics,1223.57,Section F,In Stock
+154,Under Armour T-Shirt,Sports,111.25,Section P,Out of Stock
+155,Roku Streaming Stick,Electronics,459.56,Section M,Out of Stock
+156,Nike Yoga Mat,Sports,167.61,Section N,In Stock
+157,Asics Gel-Kayano 27,Sports,31.19,Section K,In Stock
+158,Adidas Sports Bag,Sports,261.42,Section O,In Stock
+159,Adidas Sports Bag,Sports,59.27,Section W,In Stock
+160,Garmin Forerunner 45,Sports,250.23,Section J,In Stock
+161,Asics Gel-Kayano 27,Sports,244.2,Section D,In Stock
+162,Google Nest Hub,Electronics,1389.33,Section D,Out of Stock
+163,Adidas Sports Bag,Sports,212.42,Section N,Out of Stock
+164,Wilson Tennis Racket,Sports,160.62,Section W,Out of Stock
+165,Apple MacBook Pro,Electronics,1394.69,Section W,In Stock
+166,Fitbit Charge 4,Sports,155.5,Section P,Out of Stock
+167,Google Nest Hub,Electronics,212.98,Section K,Out of Stock
+168,Apple Watch Series 6,Electronics,1878.41,Section G,Out of Stock
+169,Roku Streaming Stick,Electronics,1227.4,Section A,In Stock
+170,Samsung Galaxy Tab,Electronics,797.91,Section V,In Stock
+171,Dell Inspiron Laptop,Electronics,1858.21,Section F,Out of Stock
+172,Asics Gel-Kayano 27,Sports,186.94,Section T,Out of Stock
+173,Adidas Sports Bag,Sports,247.43,Section X,Out of Stock
+174,New Balance Running Shorts,Sports,224.16,Section I,In Stock
+175,Apple Watch Series 6,Electronics,434.46,Section J,In Stock
+176,Canon EOS M50,Electronics,275.61,Section U,Out of Stock
+177,Reebok Running Shoes,Sports,125.19,Section O,In Stock
+178,Canon EOS M50,Electronics,1694.7,Section M,Out of Stock
+179,Google Nest Hub,Electronics,464.77,Section H,Out of Stock
+180,Canon EOS M50,Electronics,901.05,Section D,Out of Stock
+181,Canon EOS M50,Electronics,652.8,Section A,Out of Stock
+182,Puma Gym Gloves,Sports,112.16,Section Y,In Stock
+183,Sony PlayStation 5,Electronics,865.17,Section V,Out of Stock
+184,Puma Gym Gloves,Sports,215.54,Section X,Out of Stock
+185,Puma Gym Gloves,Sports,189.46,Section C,Out of Stock
+186,Samsung Galaxy Tab,Electronics,1336.27,Section H,In Stock
+187,Garmin Forerunner 45,Sports,78.7,Section F,In Stock
+188,Nike Yoga Mat,Sports,167.53,Section S,In Stock
+189,Under Armour T-Shirt,Sports,137.39,Section M,In Stock
+190,Canon EOS M50,Electronics,1712.4,Section G,Out of Stock
+191,Dell Inspiron Laptop,Electronics,216.24,Section Z,Out of Stock
+192,Garmin Forerunner 45,Sports,180.01,Section A,Out of Stock
+193,Apple Watch Series 6,Electronics,1629.45,Section F,In Stock
+194,Under Armour T-Shirt,Sports,119.06,Section L,Out of Stock
+195,Bose QuietComfort 35,Electronics,363.71,Section O,Out of Stock
+196,Wilson Tennis Racket,Sports,62.12,Section U,Out of Stock
+197,Nike Yoga Mat,Sports,229.07,Section G,In Stock
+198,Microsoft Surface Pro,Electronics,52.69,Section Q,In Stock
+199,Sony PlayStation 5,Electronics,739.28,Section U,In Stock
+200,New Balance Running Shorts,Sports,271.88,Section E,In Stock
+201,New Balance Running Shorts,Sports,30.82,Section Q,Out of Stock
+202,Asics Gel-Kayano 27,Sports,232.66,Section V,In Stock
+203,Puma Gym Gloves,Sports,215.25,Section Z,Out of Stock
+204,Bose QuietComfort 35,Electronics,1019.68,Section O,In Stock
+205,New Balance Running Shorts,Sports,88.88,Section M,Out of Stock
+206,New Balance Running Shorts,Sports,42.34,Section R,Out of Stock
+207,Wilson Tennis Racket,Sports,64.62,Section D,In Stock
+208,New Balance Running Shorts,Sports,209.02,Section P,Out of Stock
+209,Adidas Sports Bag,Sports,293.17,Section Y,Out of Stock
+210,Apple Watch Series 6,Electronics,83.97,Section O,Out of Stock
+211,Microsoft Surface Pro,Electronics,1902.28,Section R,In Stock
+212,Wilson Tennis Racket,Sports,298.13,Section L,In Stock
+213,Asics Gel-Kayano 27,Sports,28.76,Section A,In Stock
+214,Sony PlayStation 5,Electronics,1247.69,Section L,Out of Stock
+215,Asics Gel-Kayano 27,Sports,172.46,Section M,In Stock
+216,Fitbit Charge 4,Sports,159.58,Section G,In Stock
+217,Bose QuietComfort 35,Electronics,468.38,Section T,In Stock
+218,Sony PlayStation 5,Electronics,1300.86,Section P,In Stock
+219,Bose QuietComfort 35,Electronics,1947.23,Section C,In Stock
+220,Sony PlayStation 5,Electronics,1334.58,Section F,In Stock
+221,Bose QuietComfort 35,Electronics,430.97,Section U,In Stock
+222,Samsung Galaxy Tab,Electronics,628.99,Section R,Out of Stock
+223,Canon EOS M50,Electronics,1763.39,Section C,In Stock
+224,Reebok Running Shoes,Sports,214.84,Section L,Out of Stock
+225,Google Nest Hub,Electronics,878.94,Section J,In Stock
+226,Apple Watch Series 6,Electronics,135.7,Section D,Out of Stock
+227,Adidas Sports Bag,Sports,248.68,Section S,In Stock
+228,Wilson Tennis Racket,Sports,253.08,Section X,Out of Stock
+229,Nike Yoga Mat,Sports,153.15,Section R,In Stock
+230,Bose QuietComfort 35,Electronics,1230.8,Section D,Out of Stock
+231,Dell Inspiron Laptop,Electronics,562.53,Section T,In Stock
+232,Dell Inspiron Laptop,Electronics,742.65,Section B,Out of Stock
+233,Puma Gym Gloves,Sports,252.56,Section G,In Stock
+234,Sony PlayStation 5,Electronics,261.4,Section X,Out of Stock
+235,Microsoft Surface Pro,Electronics,1141.13,Section V,In Stock
+236,Garmin Forerunner 45,Sports,107.25,Section U,In Stock
+237,New Balance Running Shorts,Sports,168.6,Section X,In Stock
+238,Asics Gel-Kayano 27,Sports,36.05,Section E,In Stock
+239,Apple MacBook Pro,Electronics,1691.06,Section A,Out of Stock
+240,Adidas Sports Bag,Sports,183.85,Section Q,In Stock
+241,Apple MacBook Pro,Electronics,1514.92,Section N,In Stock
+242,Dell Inspiron Laptop,Electronics,1830.9,Section B,Out of Stock
+243,Under Armour T-Shirt,Sports,78.1,Section K,Out of Stock
+244,Reebok Running Shoes,Sports,253.02,Section T,In Stock
+245,Apple MacBook Pro,Electronics,996.9,Section T,In Stock
+246,Canon EOS M50,Electronics,1065.75,Section V,In Stock
+247,Adidas Sports Bag,Sports,143.44,Section O,In Stock
+248,Under Armour T-Shirt,Sports,291.71,Section P,Out of Stock
+249,Microsoft Surface Pro,Electronics,1760.63,Section R,In Stock
+250,Puma Gym Gloves,Sports,167.52,Section X,Out of Stock
+251,Samsung Galaxy Tab,Electronics,487.17,Section S,In Stock
+252,Microsoft Surface Pro,Electronics,785.06,Section X,In Stock
+253,Samsung Galaxy Tab,Electronics,1816.22,Section I,Out of Stock
+254,Google Nest Hub,Electronics,650.67,Section E,In Stock
+255,Apple Watch Series 6,Electronics,1854.61,Section E,In Stock
+256,New Balance Running Shorts,Sports,38.95,Section K,In Stock
+257,Apple Watch Series 6,Electronics,1622.08,Section Y,In Stock
+258,Garmin Forerunner 45,Sports,75.67,Section O,Out of Stock
+259,Puma Gym Gloves,Sports,143.65,Section N,In Stock
+260,New Balance Running Shorts,Sports,153.54,Section T,In Stock
+261,Google Nest Hub,Electronics,83.8,Section U,In Stock
+262,Sony PlayStation 5,Electronics,935.34,Section G,Out of Stock
+263,Adidas Sports Bag,Sports,150.67,Section B,In Stock
+264,Google Nest Hub,Electronics,455.28,Section G,Out of Stock
+265,New Balance Running Shorts,Sports,77.4,Section A,Out of Stock
+266,Sony PlayStation 5,Electronics,340.2,Section I,In Stock
+267,Nike Yoga Mat,Sports,211.65,Section I,In Stock
+268,Canon EOS M50,Electronics,528.55,Section E,Out of Stock
+269,New Balance Running Shorts,Sports,134.15,Section S,In Stock
+270,Microsoft Surface Pro,Electronics,1398.91,Section V,Out of Stock
+271,Samsung Galaxy Tab,Electronics,104.41,Section S,In Stock
+272,Canon EOS M50,Electronics,128.95,Section M,In Stock
+273,Reebok Running Shoes,Sports,57.52,Section G,Out of Stock
+274,Asics Gel-Kayano 27,Sports,222.23,Section J,In Stock
+275,Fitbit Charge 4,Sports,114.74,Section C,Out of Stock
+276,Apple Watch Series 6,Electronics,595.64,Section Q,Out of Stock
+277,Bose QuietComfort 35,Electronics,1933.68,Section J,In Stock
+278,Apple MacBook Pro,Electronics,948.87,Section H,Out of Stock
+279,Bose QuietComfort 35,Electronics,707.13,Section W,In Stock
+280,Dell Inspiron Laptop,Electronics,1674.14,Section P,In Stock
+281,Apple MacBook Pro,Electronics,315.4,Section B,Out of Stock
+282,Asics Gel-Kayano 27,Sports,186.29,Section H,Out of Stock
+283,Asics Gel-Kayano 27,Sports,269.49,Section L,In Stock
+284,Dell Inspiron Laptop,Electronics,363.28,Section V,Out of Stock
+285,Under Armour T-Shirt,Sports,149.68,Section H,In Stock
+286,Google Nest Hub,Electronics,522.6,Section M,In Stock
+287,Apple MacBook Pro,Electronics,1291.49,Section S,Out of Stock
+288,Roku Streaming Stick,Electronics,1538,Section Y,In Stock
+289,Samsung Galaxy Tab,Electronics,725.57,Section G,In Stock
+290,Under Armour T-Shirt,Sports,65.28,Section Q,In Stock
+291,Wilson Tennis Racket,Sports,29.53,Section N,In Stock
+292,Under Armour T-Shirt,Sports,28.58,Section L,Out of Stock
+293,Roku Streaming Stick,Electronics,1873.97,Section R,Out of Stock
+294,Canon EOS M50,Electronics,1521.82,Section E,Out of Stock
+295,Wilson Tennis Racket,Sports,116.79,Section O,Out of Stock
+296,Reebok Running Shoes,Sports,92.65,Section G,Out of Stock
+297,Adidas Sports Bag,Sports,136.47,Section Y,In Stock
+298,Bose QuietComfort 35,Electronics,1275.85,Section Q,In Stock
+299,Wilson Tennis Racket,Sports,252.59,Section O,Out of Stock
+300,Puma Gym Gloves,Sports,277.18,Section O,Out of Stock
+301,Garmin Forerunner 45,Sports,27.22,Section G,Out of Stock
+302,Nike Yoga Mat,Sports,115.49,Section X,In Stock
+303,Roku Streaming Stick,Electronics,349.25,Section S,In Stock
+304,Asics Gel-Kayano 27,Sports,98.13,Section F,Out of Stock
+305,Garmin Forerunner 45,Sports,27.08,Section B,Out of Stock
+306,Reebok Running Shoes,Sports,118.05,Section Y,Out of Stock
+307,Garmin Forerunner 45,Sports,53.14,Section Z,In Stock
+308,Puma Gym Gloves,Sports,291.28,Section C,In Stock
+309,Fitbit Charge 4,Sports,181.81,Section T,In Stock
+310,Bose QuietComfort 35,Electronics,1290.14,Section I,Out of Stock
+311,Wilson Tennis Racket,Sports,222.31,Section L,Out of Stock
+312,Wilson Tennis Racket,Sports,167.09,Section Z,Out of Stock
+313,Puma Gym Gloves,Sports,128.07,Section P,Out of Stock
+314,Wilson Tennis Racket,Sports,39.53,Section B,In Stock
+315,Samsung Galaxy Tab,Electronics,1131.69,Section I,In Stock
+316,Wilson Tennis Racket,Sports,70.05,Section K,In Stock
+317,Sony PlayStation 5,Electronics,142.3,Section G,In Stock
+318,Adidas Sports Bag,Sports,124.64,Section P,Out of Stock
+319,Fitbit Charge 4,Sports,293.39,Section V,Out of Stock
+320,Samsung Galaxy Tab,Electronics,1466.77,Section J,In Stock
+321,Google Nest Hub,Electronics,1970.09,Section K,Out of Stock
+322,Nike Yoga Mat,Sports,258.44,Section W,Out of Stock
+323,Apple MacBook Pro,Electronics,94.16,Section E,In Stock
+324,Bose QuietComfort 35,Electronics,1828.08,Section S,In Stock
+325,Reebok Running Shoes,Sports,82.15,Section U,Out of Stock
+326,Garmin Forerunner 45,Sports,89.88,Section Z,Out of Stock
+327,Bose QuietComfort 35,Electronics,1535.46,Section F,Out of Stock
+328,Asics Gel-Kayano 27,Sports,273.23,Section L,In Stock
+329,Puma Gym Gloves,Sports,76.26,Section G,Out of Stock
+330,Puma Gym Gloves,Sports,30.71,Section A,In Stock
+331,Apple MacBook Pro,Electronics,290.34,Section V,Out of Stock
+332,Apple Watch Series 6,Electronics,685.27,Section V,Out of Stock
+333,New Balance Running Shorts,Sports,188.94,Section L,In Stock
+334,Fitbit Charge 4,Sports,102.96,Section G,Out of Stock
+335,Dell Inspiron Laptop,Electronics,360.26,Section E,In Stock
+336,Nike Yoga Mat,Sports,187.06,Section J,Out of Stock
+337,Puma Gym Gloves,Sports,194.62,Section E,In Stock
+338,Under Armour T-Shirt,Sports,52.96,Section D,Out of Stock
+339,Asics Gel-Kayano 27,Sports,138.38,Section Q,Out of Stock
+340,Apple MacBook Pro,Electronics,59.83,Section H,Out of Stock
+341,Reebok Running Shoes,Sports,177.34,Section W,In Stock
+342,Microsoft Surface Pro,Electronics,516.57,Section J,In Stock
+343,Google Nest Hub,Electronics,134.05,Section A,In Stock
+344,Adidas Sports Bag,Sports,174.84,Section V,In Stock
+345,Roku Streaming Stick,Electronics,1397.25,Section U,In Stock
+346,Wilson Tennis Racket,Sports,61.57,Section J,Out of Stock
+347,Under Armour T-Shirt,Sports,103.2,Section H,In Stock
+348,Roku Streaming Stick,Electronics,1075.57,Section X,In Stock
+349,Sony PlayStation 5,Electronics,66.44,Section P,In Stock
+350,Google Nest Hub,Electronics,1089.03,Section Y,In Stock
+351,Apple MacBook Pro,Electronics,1595.89,Section D,In Stock
+352,Garmin Forerunner 45,Sports,81.56,Section E,Out of Stock
+353,Garmin Forerunner 45,Sports,75.92,Section R,In Stock
+354,Adidas Sports Bag,Sports,155.34,Section U,In Stock
+355,Roku Streaming Stick,Electronics,1203.89,Section M,Out of Stock
+356,Apple Watch Series 6,Electronics,1632.21,Section A,In Stock
+357,Roku Streaming Stick,Electronics,408.68,Section V,In Stock
+358,New Balance Running Shorts,Sports,230.54,Section V,Out of Stock
+359,Asics Gel-Kayano 27,Sports,160.28,Section A,Out of Stock
+360,Garmin Forerunner 45,Sports,292.78,Section A,In Stock
+361,Reebok Running Shoes,Sports,258.74,Section Y,In Stock
+362,Adidas Sports Bag,Sports,54.85,Section X,Out of Stock
+363,Sony PlayStation 5,Electronics,1877.27,Section P,In Stock
+364,Google Nest Hub,Electronics,337.05,Section Z,Out of Stock
+365,Google Nest Hub,Electronics,159.83,Section S,Out of Stock
+366,Adidas Sports Bag,Sports,196.09,Section Y,Out of Stock
+367,Sony PlayStation 5,Electronics,1032.58,Section T,Out of Stock
+368,Google Nest Hub,Electronics,1706.41,Section B,In Stock
+369,Nike Yoga Mat,Sports,54.96,Section N,In Stock
+370,Under Armour T-Shirt,Sports,206.03,Section H,In Stock
+371,Apple Watch Series 6,Electronics,87.78,Section E,In Stock
+372,Fitbit Charge 4,Sports,115.47,Section R,Out of Stock
+373,Google Nest Hub,Electronics,942.72,Section Q,In Stock
+374,New Balance Running Shorts,Sports,237.44,Section J,Out of Stock
+375,Dell Inspiron Laptop,Electronics,1207.46,Section U,In Stock
+376,Canon EOS M50,Electronics,1905.91,Section J,In Stock
+377,Microsoft Surface Pro,Electronics,213.38,Section M,Out of Stock
+378,Nike Yoga Mat,Sports,281.15,Section N,In Stock
+379,Garmin Forerunner 45,Sports,54.57,Section J,Out of Stock
+380,Adidas Sports Bag,Sports,84.59,Section A,In Stock
+381,Apple MacBook Pro,Electronics,1799.62,Section G,Out of Stock
+382,Fitbit Charge 4,Sports,191.75,Section X,In Stock
+383,Sony PlayStation 5,Electronics,1940.24,Section V,Out of Stock
+384,Apple MacBook Pro,Electronics,333.26,Section M,In Stock
+385,Google Nest Hub,Electronics,1548.73,Section K,Out of Stock
+386,Garmin Forerunner 45,Sports,281.92,Section P,In Stock
+387,Under Armour T-Shirt,Sports,146.29,Section F,Out of Stock
+388,Adidas Sports Bag,Sports,216.74,Section P,In Stock
+389,Fitbit Charge 4,Sports,76.23,Section C,In Stock
+390,Bose QuietComfort 35,Electronics,789.05,Section P,Out of Stock
+391,Apple Watch Series 6,Electronics,138.1,Section V,Out of Stock
+392,Under Armour T-Shirt,Sports,284.11,Section N,Out of Stock
+393,Asics Gel-Kayano 27,Sports,31.97,Section G,In Stock
+394,Reebok Running Shoes,Sports,211.51,Section F,In Stock
+395,Apple MacBook Pro,Electronics,1922.72,Section Z,Out of Stock
+396,Garmin Forerunner 45,Sports,43.44,Section N,In Stock
+397,Garmin Forerunner 45,Sports,176.76,Section M,Out of Stock
+398,Apple Watch Series 6,Electronics,1661.49,Section Z,In Stock
+399,Wilson Tennis Racket,Sports,235,Section E,In Stock
+400,Dell Inspiron Laptop,Electronics,1011.32,Section X,Out of Stock
+401,Google Nest Hub,Electronics,1325.68,Section F,Out of Stock
+402,Google Nest Hub,Electronics,1299.62,Section L,Out of Stock
+403,Asics Gel-Kayano 27,Sports,295.75,Section D,Out of Stock
+404,Google Nest Hub,Electronics,1912.72,Section D,In Stock
+405,Samsung Galaxy Tab,Electronics,99.48,Section E,In Stock
+406,Adidas Sports Bag,Sports,75.65,Section G,In Stock
+407,Under Armour T-Shirt,Sports,182.5,Section I,In Stock
+408,Wilson Tennis Racket,Sports,139.31,Section B,Out of Stock
+409,Asics Gel-Kayano 27,Sports,94.96,Section M,In Stock
+410,Apple MacBook Pro,Electronics,1001.12,Section C,Out of Stock
+411,Wilson Tennis Racket,Sports,183.59,Section Z,In Stock
+412,Apple MacBook Pro,Electronics,636.24,Section Z,In Stock
+413,Adidas Sports Bag,Sports,214.11,Section Y,Out of Stock
+414,Puma Gym Gloves,Sports,37.15,Section Y,Out of Stock
+415,Asics Gel-Kayano 27,Sports,186.18,Section C,In Stock
+416,Reebok Running Shoes,Sports,120.82,Section G,Out of Stock
+417,Google Nest Hub,Electronics,1306.15,Section U,In Stock
+418,Google Nest Hub,Electronics,1018.09,Section O,In Stock
+419,Adidas Sports Bag,Sports,237.39,Section I,In Stock
+420,Google Nest Hub,Electronics,1523.07,Section Z,In Stock
+421,Garmin Forerunner 45,Sports,289.8,Section K,Out of Stock
+422,Apple MacBook Pro,Electronics,1252.83,Section V,Out of Stock
+423,Reebok Running Shoes,Sports,60.33,Section F,Out of Stock
+424,Fitbit Charge 4,Sports,214.86,Section A,Out of Stock
+425,Under Armour T-Shirt,Sports,142.18,Section D,Out of Stock
+426,Garmin Forerunner 45,Sports,191.82,Section X,In Stock
+427,Samsung Galaxy Tab,Electronics,556.26,Section I,Out of Stock
+428,Roku Streaming Stick,Electronics,1717.06,Section V,In Stock
+429,Adidas Sports Bag,Sports,280.73,Section E,Out of Stock
+430,Garmin Forerunner 45,Sports,120.69,Section Y,Out of Stock
+431,Reebok Running Shoes,Sports,60.16,Section X,In Stock
+432,Garmin Forerunner 45,Sports,82.06,Section M,In Stock
+433,Adidas Sports Bag,Sports,257.59,Section R,Out of Stock
+434,Bose QuietComfort 35,Electronics,223.48,Section X,Out of Stock
+435,Apple Watch Series 6,Electronics,1722.58,Section U,In Stock
+436,New Balance Running Shorts,Sports,136.15,Section H,Out of Stock
+437,Garmin Forerunner 45,Sports,51.78,Section S,Out of Stock
+438,Asics Gel-Kayano 27,Sports,64.85,Section M,Out of Stock
+439,Bose QuietComfort 35,Electronics,211.02,Section N,In Stock
+440,Samsung Galaxy Tab,Electronics,1110.35,Section O,In Stock
+441,Asics Gel-Kayano 27,Sports,218.4,Section Q,Out of Stock
+442,New Balance Running Shorts,Sports,50.65,Section S,In Stock
+443,Apple MacBook Pro,Electronics,567.69,Section N,In Stock
+444,Wilson Tennis Racket,Sports,183.61,Section K,In Stock
+445,Wilson Tennis Racket,Sports,142.27,Section L,Out of Stock
+446,Apple Watch Series 6,Electronics,512.25,Section A,In Stock
+447,Bose QuietComfort 35,Electronics,1046.16,Section Z,Out of Stock
+448,Canon EOS M50,Electronics,1129,Section M,In Stock
+449,New Balance Running Shorts,Sports,298.84,Section V,In Stock
+450,Google Nest Hub,Electronics,814.98,Section K,In Stock
+451,Wilson Tennis Racket,Sports,218.72,Section G,Out of Stock
+452,Dell Inspiron Laptop,Electronics,556.37,Section N,Out of Stock
+453,Apple MacBook Pro,Electronics,394.34,Section A,In Stock
+454,Adidas Sports Bag,Sports,232.15,Section M,In Stock
+455,Microsoft Surface Pro,Electronics,260.29,Section R,Out of Stock
+456,Sony PlayStation 5,Electronics,1950.88,Section Q,Out of Stock
+457,New Balance Running Shorts,Sports,198.11,Section K,In Stock
+458,Wilson Tennis Racket,Sports,136.79,Section G,Out of Stock
+459,Apple Watch Series 6,Electronics,272.14,Section X,Out of Stock
+460,Nike Yoga Mat,Sports,190.69,Section Q,Out of Stock
+461,Apple Watch Series 6,Electronics,407.99,Section I,In Stock
+462,Garmin Forerunner 45,Sports,25.68,Section E,Out of Stock
+463,Nike Yoga Mat,Sports,172.47,Section B,In Stock
+464,Sony PlayStation 5,Electronics,1577.25,Section L,In Stock
+465,Google Nest Hub,Electronics,657.46,Section O,In Stock
+466,Adidas Sports Bag,Sports,56.81,Section M,Out of Stock
+467,Wilson Tennis Racket,Sports,165.59,Section V,In Stock
+468,Puma Gym Gloves,Sports,131.7,Section T,In Stock
+469,Puma Gym Gloves,Sports,152.05,Section S,Out of Stock
+470,Fitbit Charge 4,Sports,77.91,Section A,Out of Stock
+471,Reebok Running Shoes,Sports,126.7,Section M,Out of Stock
+472,Dell Inspiron Laptop,Electronics,1062.82,Section B,In Stock
+473,New Balance Running Shorts,Sports,173.51,Section P,In Stock
+474,Reebok Running Shoes,Sports,205.35,Section E,Out of Stock
+475,Apple MacBook Pro,Electronics,1139.21,Section I,Out of Stock
+476,Dell Inspiron Laptop,Electronics,1604.22,Section U,Out of Stock
+477,Adidas Sports Bag,Sports,58.08,Section L,In Stock
+478,Roku Streaming Stick,Electronics,632.11,Section C,In Stock
+479,Bose QuietComfort 35,Electronics,1866.33,Section J,Out of Stock
+480,Google Nest Hub,Electronics,214.73,Section I,In Stock
+481,Samsung Galaxy Tab,Electronics,1444.19,Section D,In Stock
+482,Google Nest Hub,Electronics,1547.48,Section U,Out of Stock
+483,Dell Inspiron Laptop,Electronics,1844.17,Section X,Out of Stock
+484,Bose QuietComfort 35,Electronics,1969.25,Section Z,In Stock
+485,Reebok Running Shoes,Sports,294.85,Section H,In Stock
+486,Canon EOS M50,Electronics,1457.89,Section C,Out of Stock
+487,Asics Gel-Kayano 27,Sports,80.81,Section T,Out of Stock
+488,Adidas Sports Bag,Sports,50.29,Section C,In Stock
+489,Apple MacBook Pro,Electronics,1093.09,Section C,In Stock
+490,Samsung Galaxy Tab,Electronics,1561.32,Section O,Out of Stock
+491,Asics Gel-Kayano 27,Sports,21.45,Section S,In Stock
+492,Samsung Galaxy Tab,Electronics,1368.67,Section P,Out of Stock
+493,Google Nest Hub,Electronics,1126.63,Section H,In Stock
+494,Apple Watch Series 6,Electronics,136.12,Section Y,In Stock
+495,Wilson Tennis Racket,Sports,189.67,Section H,In Stock
+496,Reebok Running Shoes,Sports,124.96,Section D,Out of Stock
+497,New Balance Running Shorts,Sports,255,Section Q,Out of Stock
+498,Asics Gel-Kayano 27,Sports,155.89,Section M,In Stock
+499,Adidas Sports Bag,Sports,173.23,Section N,Out of Stock
+500,Garmin Forerunner 45,Sports,75.04,Section L,In Stock
+501,Organic Apples,Grocery,354.81,Aisle 4,Out of Stock
+502,Bananas,Grocery,151.32,Aisle 1,Out of Stock
+503,Almond Milk,Grocery,159.68,Aisle 1,Out of Stock
+504,Brown Rice,Grocery,320.67,Aisle 3,In Stock
+505,Chia Seeds,Grocery,297.16,Aisle 2,Out of Stock
+506,Quinoa,Grocery,382,Aisle 3,Out of Stock
+507,Greek Yogurt,Grocery,63.11,Aisle 4,In Stock
+508,Oats,Grocery,484.64,Aisle 1,In Stock
+509,Chicken Breast,Grocery,465.52,Aisle 2,In Stock
+510,Spinach,Grocery,75.51,Aisle 3,Out of Stock
+511,Broccoli,Grocery,216.15,Aisle 2,Out of Stock
+512,Avocado,Grocery,28.37,Aisle 4,In Stock
+513,Blueberries,Grocery,453.07,Aisle 2,Out of Stock
+514,Salmon,Grocery,80.09,Aisle 1,Out of Stock
+515,Almonds,Grocery,62.89,Aisle 1,Out of Stock
+516,Sweet Potatoes,Grocery,488.03,Aisle 1,Out of Stock
+517,Eggs,Grocery,165.26,Aisle 1,Out of Stock
+518,Coconut Oil,Grocery,43.23,Aisle 2,Out of Stock
+519,Green Tea,Grocery,181.91,Aisle 2,Out of Stock
+520,Garlic,Grocery,272.26,Aisle 3,In Stock
+521,Bell Peppers,Grocery,249.04,Aisle 2,Out of Stock
+522,Carrots,Grocery,110.96,Aisle 3,Out of Stock
+523,Walnuts,Grocery,81.66,Aisle 1,In Stock
+524,Tomatoes,Grocery,278.86,Aisle 3,In Stock
+525,Black Beans,Grocery,366.87,Aisle 3,Out of Stock
+526,Chickpeas,Grocery,252.28,Aisle 1,In Stock
+527,Cucumber,Grocery,284.61,Aisle 2,In Stock
+528,Oranges,Grocery,197.53,Aisle 1,In Stock
+529,Kale,Grocery,258.85,Aisle 1,In Stock
+530,Peanut Butter,Grocery,137.18,Aisle 2,Out of Stock
+531,Refrigerator,Home Appliances,474.15,Aisle 1,Out of Stock
+532,Washing Machine,Home Appliances,240.45,Aisle 4,In Stock
+533,Microwave Oven,Home Appliances,85.52,Aisle 2,Out of Stock
+534,Air Conditioner,Home Appliances,62.48,Aisle 3,Out of Stock
+535,Vacuum Cleaner,Home Appliances,476.78,Aisle 2,In Stock
+536,Dishwasher,Home Appliances,384.37,Aisle 3,Out of Stock
+537,Electric Kettle,Home Appliances,74.36,Aisle 4,In Stock
+538,Toaster,Home Appliances,15.81,Aisle 1,Out of Stock
+539,Coffee Maker,Home Appliances,86.95,Aisle 2,In Stock
+540,Blender,Home Appliances,325.5,Aisle 4,In Stock
+541,Iron,Home Appliances,164.87,Aisle 2,In Stock
+542,Hair Dryer,Home Appliances,179.72,Aisle 2,In Stock
+543,Water Purifier,Home Appliances,75.17,Aisle 1,Out of Stock
+544,Room Heater,Home Appliances,156.01,Aisle 1,In Stock
+545,Air Purifier,Home Appliances,433.05,Aisle 4,In Stock
+546,Fan,Home Appliances,201.77,Aisle 4,In Stock
+547,Mixer Grinder,Home Appliances,277.93,Aisle 4,Out of Stock
+548,Electric Rice Cooker,Home Appliances,411.87,Aisle 2,In Stock
+549,Induction Cooktop,Home Appliances,336.01,Aisle 1,Out of Stock
+550,Juicer,Home Appliances,416.38,Aisle 4,In Stock
+551,Electric Grill,Home Appliances,370.64,Aisle 3,Out of Stock
+552,Handheld Vacuum,Home Appliances,307.6,Aisle 4,Out of Stock
+553,Steam Iron,Home Appliances,337.6,Aisle 2,Out of Stock
+554,Electric Shaver,Home Appliances,393.9,Aisle 4,Out of Stock
+555,Bread Maker,Home Appliances,226.7,Aisle 4,Out of Stock
+556,Electric Pressure Cooker,Home Appliances,451.03,Aisle 1,In Stock
+557,Deep Fryer,Home Appliances,26.5,Aisle 2,In Stock
+558,Portable Heater,Home Appliances,397.1,Aisle 4,Out of Stock
+559,Dish Drying Rack,Home Appliances,302.61,Aisle 3,Out of Stock
+560,Food Processor,Home Appliances,344.47,Aisle 3,In Stock
+561,Lawn Mower,Patio and Garden,137.01,Aisle 1,Out of Stock
+562,Garden Hose,Patio and Garden,247.28,Aisle 2,Out of Stock
+563,Patio Furniture,Patio and Garden,369.41,Aisle 4,Out of Stock
+564,Garden Shovel,Patio and Garden,132.69,Aisle 2,In Stock
+565,Grill,Patio and Garden,299.6,Aisle 2,In Stock
+566,Flower Pots,Patio and Garden,429.84,Aisle 2,Out of Stock
+567,Garden Rake,Patio and Garden,222.81,Aisle 4,In Stock
+568,Outdoor Umbrella,Patio and Garden,381.94,Aisle 4,In Stock
+569,Weed Trimmer,Patio and Garden,70.08,Aisle 1,In Stock
+570,Compost Bin,Patio and Garden,291.44,Aisle 1,In Stock
+571,Patio Heater,Patio and Garden,335.69,Aisle 4,Out of Stock
+572,Bird Feeder,Patio and Garden,340.09,Aisle 2,Out of Stock
+573,Garden Gloves,Patio and Garden,480.62,Aisle 1,Out of Stock
+574,Planter Box,Patio and Garden,376.46,Aisle 3,In Stock
+575,Outdoor String Lights,Patio and Garden,121.93,Aisle 2,Out of Stock
+576,Hammock,Patio and Garden,313.36,Aisle 2,In Stock
+577,Garden Trowel,Patio and Garden,239.42,Aisle 2,Out of Stock
+578,Watering Can,Patio and Garden,125.96,Aisle 1,Out of Stock
+579,Garden Kneeler,Patio and Garden,239.03,Aisle 4,In Stock
+580,Garden Sprayer,Patio and Garden,316.16,Aisle 3,Out of Stock
+581,Outdoor Fire Pit,Patio and Garden,369.56,Aisle 2,In Stock
+582,Garden Cart,Patio and Garden,159.91,Aisle 2,Out of Stock
+583,Garden Shears,Patio and Garden,166.54,Aisle 3,Out of Stock
+584,Garden Fork,Patio and Garden,390.94,Aisle 2,Out of Stock
+585,Solar Garden Lights,Patio and Garden,225.7,Aisle 2,In Stock
+586,Garden Fence,Patio and Garden,6.94,Aisle 1,In Stock
+587,Garden Gnome,Patio and Garden,234.22,Aisle 4,Out of Stock
+588,Garden Statue,Patio and Garden,76.63,Aisle 2,In Stock
+589,Outdoor Storage Box,Patio and Garden,62.94,Aisle 1,In Stock
+590,Garden Soil,Patio and Garden,150.24,Aisle 1,In Stock
+591,Denim Jeans,Fashion,411.69,Aisle 4,In Stock
+592,Leather Jacket,Fashion,499.14,Aisle 3,In Stock
+593,Sneakers,Fashion,211.79,Aisle 1,Out of Stock
+594,Sunglasses,Fashion,285.18,Aisle 2,Out of Stock
+595,Handbag,Fashion,80.46,Aisle 4,In Stock
+596,Watch,Fashion,162.52,Aisle 3,In Stock
+597,Scarf,Fashion,320.34,Aisle 3,In Stock
+598,Blazer,Fashion,63.41,Aisle 1,In Stock
+599,Dress Shoes,Fashion,307.46,Aisle 2,Out of Stock
+600,Casual Shirt,Fashion,295.18,Aisle 3,In Stock
+601,T-Shirt,Fashion,497.46,Aisle 3,In Stock
+602,Sweater,Fashion,211.82,Aisle 4,In Stock
+603,Dress,Fashion,199.07,Aisle 3,Out of Stock
+604,Skirt,Fashion,329.69,Aisle 3,Out of Stock
+605,Blouse,Fashion,59.27,Aisle 1,In Stock
+606,Belt,Fashion,477.62,Aisle 3,Out of Stock
+607,Cap,Fashion,469.68,Aisle 3,In Stock
+608,Backpack,Fashion,66.09,Aisle 3,In Stock
+609,Sandals,Fashion,480.34,Aisle 2,In Stock
+610,Boots,Fashion,367.72,Aisle 2,In Stock
+611,Necklace,Fashion,429.05,Aisle 4,In Stock
+612,Earrings,Fashion,98.74,Aisle 3,In Stock
+613,Bracelet,Fashion,414.23,Aisle 2,In Stock
+614,Ring,Fashion,278.84,Aisle 4,In Stock
+615,Swimwear,Fashion,309.27,Aisle 1,Out of Stock
+616,Jumpsuit,Fashion,406.47,Aisle 4,Out of Stock
+617,Tracksuit,Fashion,185.13,Aisle 3,Out of Stock
+618,Hoodie,Fashion,153.35,Aisle 3,In Stock
+619,Lingerie,Fashion,53.43,Aisle 2,Out of Stock
+620,Sports Bra,Fashion,332.07,Aisle 4,Out of Stock
+621,Baby Stroller,Baby,399.39,Aisle 3,In Stock
+622,Diapers,Baby,158.41,Aisle 3,Out of Stock
+623,Baby Formula,Baby,309.38,Aisle 1,Out of Stock
+624,Baby Crib,Baby,339.43,Aisle 2,Out of Stock
+625,Baby Monitor,Baby,499.22,Aisle 4,In Stock
+626,Baby Clothes,Baby,86.43,Aisle 1,Out of Stock
+627,Baby Bottles,Baby,421.69,Aisle 3,Out of Stock
+628,Pacifiers,Baby,246.09,Aisle 3,In Stock
+629,Baby Swing,Baby,51.19,Aisle 4,In Stock
+630,Baby Carrier,Baby,294.64,Aisle 4,In Stock
+631,High Chair,Baby,211.77,Aisle 4,In Stock
+632,Baby Wipes,Baby,87.98,Aisle 3,Out of Stock
+633,Baby Blanket,Baby,324.08,Aisle 3,In Stock
+634,Diaper Bag,Baby,411.95,Aisle 4,Out of Stock
+635,Baby Bathtub,Baby,483.1,Aisle 3,Out of Stock
+636,Baby Shampoo,Baby,31.16,Aisle 4,In Stock
+637,Baby Lotion,Baby,73.58,Aisle 2,In Stock
+638,Teething Toys,Baby,311.08,Aisle 4,Out of Stock
+639,Baby Books,Baby,27.67,Aisle 2,Out of Stock
+640,Baby Toys,Baby,213.1,Aisle 1,Out of Stock
+641,Baby Walker,Baby,12.81,Aisle 4,In Stock
+642,Baby Bouncer,Baby,95.53,Aisle 1,In Stock
+643,Baby Mattress,Baby,54.28,Aisle 4,Out of Stock
+644,Baby Food,Baby,405.73,Aisle 3,In Stock
+645,Breast Pump,Baby,365.67,Aisle 2,Out of Stock
+646,Baby Bibs,Baby,458.32,Aisle 1,Out of Stock
+647,Changing Pad,Baby,264.24,Aisle 3,In Stock
+648,Baby Grooming Kit,Baby,247.41,Aisle 1,Out of Stock
+649,Baby Safety Gates,Baby,65.96,Aisle 1,Out of Stock
+650,Baby Car Seat,Baby,102.33,Aisle 2,Out of Stock
+651,Building Blocks,Toys,157.07,Aisle 1,In Stock
+652,Action Figures,Toys,174.15,Aisle 2,In Stock
+653,Dolls,Toys,37.24,Aisle 1,Out of Stock
+654,Puzzle,Toys,28.18,Aisle 1,Out of Stock
+655,Toy Cars,Toys,490.61,Aisle 1,In Stock
+656,Stuffed Animals,Toys,408.19,Aisle 3,In Stock
+657,Board Games,Toys,193.56,Aisle 2,Out of Stock
+658,Remote Control Cars,Toys,22.22,Aisle 3,In Stock
+659,Toy Train Set,Toys,305.34,Aisle 1,Out of Stock
+660,Play-Doh,Toys,214.25,Aisle 2,Out of Stock
+661,Lego Set,Toys,406.5,Aisle 4,In Stock
+662,Toy Kitchen,Toys,243.48,Aisle 4,Out of Stock
+663,Art Supplies,Toys,139.94,Aisle 4,In Stock
+664,Educational Toys,Toys,155.44,Aisle 2,Out of Stock
+665,Outdoor Playhouse,Toys,484.58,Aisle 2,Out of Stock
+666,Scooter,Toys,121.59,Aisle 2,Out of Stock
+667,Bicycle,Toys,237.94,Aisle 1,Out of Stock
+668,Play Tent,Toys,373.68,Aisle 3,In Stock
+669,Rubik's Cube,Toys,461.8,Aisle 4,Out of Stock
+670,Yo-Yo,Toys,343.11,Aisle 4,Out of Stock
+671,Musical Instruments,Toys,129.41,Aisle 2,In Stock
+672,Video Games,Toys,101.82,Aisle 4,In Stock
+673,Sports Equipment,Toys,372.97,Aisle 4,In Stock
+674,Modeling Clay,Toys,165.83,Aisle 4,Out of Stock
+675,Finger Puppets,Toys,50.17,Aisle 2,Out of Stock
+676,Magic Set,Toys,380.02,Aisle 1,Out of Stock
+677,Toy Soldiers,Toys,18.34,Aisle 1,In Stock
+678,Water Gun,Toys,260.11,Aisle 1,In Stock
+679,Marbles,Toys,477.17,Aisle 1,In Stock
+680,Bubble Blower,Toys,130.99,Aisle 2,In Stock
+681,Vitamin C,Health and Wellness,153.27,Aisle 4,Out of Stock
+682,Yoga Mat,Health and Wellness,68.22,Aisle 2,In Stock
+683,Resistance Bands,Health and Wellness,369.45,Aisle 2,In Stock
+684,Dumbbells,Health and Wellness,103.28,Aisle 2,Out of Stock
+685,Treadmill,Health and Wellness,181.18,Aisle 3,In Stock
+686,Exercise Bike,Health and Wellness,232.42,Aisle 3,In Stock
+687,Protein Powder,Health and Wellness,491.16,Aisle 3,In Stock
+688,First Aid Kit,Health and Wellness,16.77,Aisle 3,In Stock
+689,Thermometer,Health and Wellness,253.47,Aisle 2,Out of Stock
+690,Blood Pressure Monitor,Health and Wellness,227.99,Aisle 1,In Stock
+691,Hand Sanitizer,Health and Wellness,152.57,Aisle 4,In Stock
+692,Face Mask,Health and Wellness,380.13,Aisle 4,Out of Stock
+693,Essential Oils,Health and Wellness,497.32,Aisle 4,Out of Stock
+694,Massage Gun,Health and Wellness,216.16,Aisle 3,In Stock
+695,Foam Roller,Health and Wellness,188.34,Aisle 4,Out of Stock
+696,Running Shoes,Health and Wellness,457.94,Aisle 4,Out of Stock
+697,Fitness Tracker,Health and Wellness,108.34,Aisle 1,Out of Stock
+698,Yoga Block,Health and Wellness,246.42,Aisle 1,Out of Stock
+699,Water Bottle,Health and Wellness,253.73,Aisle 1,Out of Stock
+700,Healthy Snacks,Health and Wellness,134.26,Aisle 2,In Stock
+701,Herbal Tea,Health and Wellness,251.94,Aisle 3,In Stock
+702,Sleep Mask,Health and Wellness,153.06,Aisle 1,In Stock
+703,Electric Toothbrush,Health and Wellness,382.75,Aisle 3,In Stock
+704,Shampoo,Health and Wellness,62.22,Aisle 2,Out of Stock
+705,Conditioner,Health and Wellness,127.53,Aisle 2,Out of Stock
+706,Body Wash,Health and Wellness,277.93,Aisle 1,In Stock
+707,Moisturizer,Health and Wellness,24.68,Aisle 4,Out of Stock
+708,Sunscreen,Health and Wellness,144.85,Aisle 3,In Stock
+709,Lip Balm,Health and Wellness,14.73,Aisle 3,Out of Stock
+710,Hair Brush,Health and Wellness,13.68,Aisle 4,In Stock

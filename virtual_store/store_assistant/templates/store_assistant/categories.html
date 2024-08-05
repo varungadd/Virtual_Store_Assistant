@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Categories</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+        /* Reset some default browser styles */
+        body, h1, p, ul {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Basic body styling */
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        /* Header styling */
+        header {
+            background-color: #232f3e;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            font-size: 2em;
+            font-weight: bold;
+        }
+
+        /* Navigation bar styling */
+        .navbar {
+            display: flex;
+            justify-content: space-around;
+            background-color: #232f3e;
+            padding: 10px 0;
+        }
+
+        .navbar a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-align: center;
+            font-size: 1.2em;
+            transition: background-color 0.3s ease, border-radius 0.3s ease;
+        }
+
+        .navbar a:hover {
+            background-color: #ff9900;
+            border-radius: 5px;
+        }
+
+        /* Search bar styling */
+        .search-bar {
+            display: flex;
+            justify-content: center;
+            margin: 20px 0;
+        }
+
+        .search-bar input[type="text"] {
+            width: 400px;
+            padding: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 1em;
+        }
+
+        .search-bar button {
+            padding: 15px 30px;
+            background-color: #ff9900;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-left: 10px;
+            font-size: 1em;
+            color: white;
+            transition: background-color 0.3s ease;
+        }
+
+        .search-bar button:hover {
+            background-color: #e68a00;
+        }
+
+        /* Container styling */
+        .container {
+            max-width: 1200px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        .categories {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+
+        .category-item {
+            width: 150px;
+            padding: 20px;
+            border-radius: 15px;
+            background-color: #f9f9f9;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
+        }
+
+        .category-item img {
+            width: 80px;
+            height: 80px;
+            object-fit: contain;
+            margin-bottom: 10px;
+        }
+
+        .category-item h2 {
+            font-size: 1.2em;
+            color: #333;
+            margin: 0;
+        }
+
+        .category-item:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+
+        .view-all {
+            margin-top: 30px;
+        }
+
+        .view-all a {
+            text-decoration: none;
+            color: #007bff;
+            font-size: 1em;
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        .view-all a:hover {
+            color: #0056b3;
+        }
+
+        /* Footer styling */
+        footer {
+            background-color: #232f3e;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+            font-size: 1em;
+            animation: slideInUp 1s;
+        }
+
+        @keyframes slideInUp {
+            from {
+                transform: translateY(100%);
+                opacity: 0;
+            }
+            to {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+
+        /* Mobile responsiveness */
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px;
+            }
+
+            .category-item {
+                width: 90%;
+                margin: 10px auto;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .search-bar input[type="text"] {
+                width: 100%;
+            }
+
+            .search-bar button {
+                width: 100%;
+                margin-top: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Get it all right here
+    </header>
+    <div class="navbar">
+        <a href="{% url 'index' %}">Home</a>
+        <a href="{% url 'categories' %}">Categories</a>
+        <a href="{% url 'customer_id' %}">Recommendations</a>
+        <a href="{% url 'view_cart' %}">Cart</a>
+        <a href="{% url 'contact_us' %}">Contact</a>
+        <a href="{% url 'login' %}">Login</a>
+    </div>
+    <div class="search-bar">
+        <input type="text" placeholder="Search...">
+        <button>Search</button>
+    </div>
+    <div class="container">
+        <div class="categories">
+            <div class="category-item">
+                <img src="data:image/jpeg;base64,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" alt="Baby">
+                <h2>Baby</h2>
+            </div>
+            <div class="category-item">
+                <img src="https://eiosys.com/wp-content/uploads/2021/12/without-text-Top-Online-Electronics-Shopping-Websites-in-India.webp" alt="Electronics">
+                <h2>Electronics</h2>
+            </div>
+            <div class="category-item">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcgnyadG5KKA6DtgGGHKN4ybJIekGPnWgZgw&s" alt="Fashion">
+                <h2>Fashion</h2>
+            </div>
+            <div class="category-item">
+                <img src="https://www.macopkg.com/wp-content/uploads/2023/02/supermarket-aisle-1024x768.jpg" alt="Grocery">
+                <h2>Grocery</h2>
+            </div>
+            <div class="category-item">
+                <img src="https://grin.co/wp-content/uploads/2021/08/425x425WheelOfHealth_Final_0.webp" alt="Health and Wellness">
+                <h2>Health and Wellness</h2>
+            </div>
+            <div class="category-item">
+                <img src="https://static-assets.business.amazon.com/assets/in/24th-jan/705_Website_Blog_Appliances_1450x664.jpg.transform/1450x664/image.jpg" alt="Home Appliances">
+                <h2>Home Appliances</h2>
+            </div>
+            <div class="category-item">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAOWSsXRp4bKzyOh6RettLp-1znR59fgGGxg&s" alt="Patio and Garden">
+                <h2>Patio and Garden</h2>
+            </div>
+            <div class="category-item">
+                <img src="https://img.freepik.com/free-photo/sports-tools_53876-138077.jpg" alt="Sports">
+                <h2>Sports</h2>
+            </div>
+            <div class="category-item">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNaI4Hv3SfBuWQ73RqG4pKP28NTrzuDFjrHg&s" alt="Toys">
+                <h2>Toys</h2>
+            </div>
+        </div>
+        <div class="view-all">
+            <a href="#">View all</a>
+        </div>
+    </div>
+    <footer>
+        &copy; 2024 Your Company Name. All rights reserved.
+    </footer>
+</body>
+</html>
