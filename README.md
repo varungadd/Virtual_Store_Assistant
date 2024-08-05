@@ -100,7 +100,3 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgements
-
-- Thanks to the Walmart Hackathon team for the opportunity.
-- Special thanks to our team members for their hard work and dedication.
